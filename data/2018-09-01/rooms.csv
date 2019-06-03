@@ -1,0 +1,3697 @@
+AOID,Label
+A1.1MP.500,500-chodba
+A1.1MP.501,501-výrobní prostory
+A1.1MP.502,502-sklad
+A1.1MP.503,503-kancelář
+A1.1MP.504,504-kancelář
+A1.1MP.505,505-kancelář
+A1.1MP.506,506-výrobní prostory
+A1.1MP.507,507-kancelář
+A1.1MP.508,508-kancelář
+A1.1MP.509,509-WC
+A1.1MP.510,510-WC
+A1.1MP.511,511-chodba
+A1.1MP.512,512-sociální zázemí
+A1.1MP.513,513-sociální zázemí
+A1.1MP.514,514-kancelář
+A1.1MP.515A,515A-sklad
+A1.1MP.515B,515B-sklad
+A1.1MP.516,516-chodba
+A1.1MP.517,517-kancelář
+A1.1MP.518,518-chodba
+A1.1MP.519,519-WC
+A1.1MP.520,520-kancelář
+A1.1MP.521,521-kancelář
+A1.1MP.524,524-sklad
+A1.1MP.525,525-sklad
+A1.1MP.526,526-sklad
+A1.1MP.527,527-výrobní prostory
+A1.1MP.528,528-výrobní prostory
+A1.1MP.529,529-sociální zázemí
+A1.1MP.530,530-sklad
+A1.1MP.531,531-sklad
+A1.1MP.532,532-kancelář
+A1.1MP.533,533-WC
+A1.1MP.534,534-chodba
+A1.1MP.535,535-kancelář
+A1.1NP.100,100-chodba
+A1.1NP.101,101-schody
+A1.1NP.102,102-kancelář
+A1.1NP.104,104-kancelář
+A1.1NP.105,105-kancelář
+A1.1NP.107,107-kancelář
+A1.1NP.108,108-schody
+A1.1NP.109,109-chodba
+A1.1NP.110,110-kancelář
+A1.1NP.113,113-kancelář
+A1.1NP.114,114-kancelář
+A1.1NP.115,115-kancelář
+A1.1NP.116,116-kancelář
+A1.1NP.117,117-kancelář
+A1.1NP.118,118-výrobní prostory
+A1.1NP.119,119-schody
+A1.1NP.120,120-chodba
+A1.1NP.121,121-chodba
+A1.1NP.122,122-kancelář
+A1.1NP.123,123-kancelář
+A1.1NP.124,124-sklad
+A1.1NP.126,126-kancelář
+A1.1NP.127,127-chodba
+A1.1NP.128,128-WC
+A1.1NP.129,129-WC
+A1.1NP.130,130-schody
+A1.1NP.131,131-chodba
+A1.1NP.131A,131A-sociální zázemí
+A1.1NP.132,132-WC
+A1.1NP.133,133-WC
+A1.1NP.134,134-WC
+A1.1NP.134A,134A-WC
+A1.1NP.135,135-sklad
+A1.1NP.136,136-sklad
+A1.1NP.137,137-sklad
+A1.1NP.138,138-chodba
+A1.1NP.139,139-schody
+A1.1NP.140,140-chodba
+A1.1NP.141,141-sklad
+A1.1NP.142,142-sklad
+A1.1NP.142A,142A-sklad
+A1.1NP.143,143-sociální zázemí
+A1.1NP.151,151-kancelář
+A1.1NP.152,152-kancelář
+A1.1NP.153,153-kancelář
+A1.1NP.154,154-kancelář
+A1.1NP.155,155-chodba
+A1.1NP.156,156-chodba
+A1.1NP.157,157-schody
+A1.1NP.158,158-výrobní prostory
+A1.1NP.159,159-schody
+A1.1NP.160,160-jídelna
+A1.1NP.161,161-kuchyň
+A1.1NP.162,162-kuchyň
+A1.1NP.163,163-chodba
+A1.1NP.164,164-WC
+A1.1NP.165,165-WC
+A1.1NP.166,166-WC
+A1.1NP.167,167-výrobní prostory
+A1.1NP.168,168-výrobní prostory
+A1.1NP.169,169-chodba
+A1.1NP.170,170-schody
+A1.1NP.171,171-chodba
+A1.1NP.172,172-WC
+A1.1NP.173,173-WC
+A1.1NP.174,174-WC
+A1.1NP.175,175-kancelář
+A1.1NP.176,176-sklad
+A1.1NP.177,177-sociální zázemí
+A1.1NP.178,178-kancelář
+A1.1NP.179,179-schody
+A1.1NP.180,180-kancelář
+A1.1NP.181,181-kancelář
+A1.1NP.181A,181A-chodba
+A1.1NP.182,182-kancelář
+A1.1NP.183,183-chodba
+A1.1NP.184,184-sklad
+A1.1NP.185,185-chodba
+A1.1NP.186,186-výrobní prostory
+A1.1NP.187,187-schody
+A1.1NP.188,188-schody
+A1.1NP.189,189-výrobní prostory
+A1.1NP.190,190-výrobní prostory
+A1.1NP.191,191-výrobní prostory
+A1.1NP.192,192-výrobní prostory
+A1.1NP.193,193-výrobní prostory
+A1.1NP.1A1,1A1-sklad
+A1.1NP.1A1A,1A1A-sklad
+A1.1NP.1A2,1A2-sklad
+A1.1NP.1A3,1A3-sklad
+A1.1NP.1A4,1A4-sklad
+A1.1NP.1A4A,1A4A-sklad
+A1.1NP.1A4B,1A4B-sklad
+A1.1NP.1A5,1A5-chodba
+A1.1NP.1A5A,1A5A-sklad
+A1.1NP.1A6,1A6-chodba
+A1.1NP.1A7,1A7-výrobní prostory
+A1.1NP.1A8,1A8-sklad
+A1.1NP.1A9,1A9-chodba
+A1.1NP.1B1,1B1-sklad
+A1.1NP.1B2,1B2-sklad
+A1.1NP.1B3,1B3-šatna
+A1.1NP.1B4,1B4-sociální zázemí
+A1.1NP.1B5,1B5-sociální zázemí
+A1.1NP.1B6,1B6-šatna
+A1.1NP.1B6A,1B6A-šatna
+A1.1NP.1B6B,1B6B-šatna
+A1.1NP.1B6C,1B6C-šatna
+A1.1NP.1B7,1B7-sociální zázemí
+A1.1NP.1C1,1C1-sklad
+A1.1NP.1C10,1C10-sklad
+A1.1NP.1C13,1C13-sklad
+A1.1NP.1C14,1C14-sklad
+A1.1NP.1C15,1C15-sklad
+A1.1NP.1C16,1C16-sklad
+A1.1NP.1C2,1C2-sklad
+A1.1NP.1C3,1C3-sklad
+A1.1NP.1C4,1C4-kancelář
+A1.1NP.1C4A,1C4A-chodba
+A1.1NP.1C4B,1C4B-chodba
+A1.1NP.1C5,1C5-kancelář
+A1.1NP.1C6,1C6-kancelář
+A1.1NP.1C7,1C7-kancelář
+A1.1NP.1C8,1C8-kancelář
+A1.1NP.1C9,1C9-chodba
+A1.1NP.1D1,1D1-chodba
+A1.1NP.1D10,1D10-sklad
+A1.1NP.1D2,1D2-chodba
+A1.1NP.1D3,1D3-chodba
+A1.1NP.1D4,1D4-sklad
+A1.1NP.1D5,1D5-kancelář
+A1.1NP.1D5A,1D5A-kancelář
+A1.1NP.1D6,1D6-výrobní prostory
+A1.1NP.1D7,1D7-sklad
+A1.1NP.1D8,1D8-sklad
+A1.1NP.1D9,1D9-kancelář
+A1.1NP.1E1,1E1-výrobní prostory
+A1.1PP.001,001-chodba
+A1.1PP.002,002-schody
+A1.1PP.003,003-kancelář
+A1.1PP.003A,003A-kancelář
+A1.1PP.004,004-kancelář
+A1.1PP.005,005-kancelář
+A1.1PP.005A,005A-sklad
+A1.1PP.005B,005B-sklad
+A1.1PP.005C,005C-WC
+A1.1PP.005D,005D-WC
+A1.1PP.006,006-sklad
+A1.1PP.007,007-kancelář
+A1.1PP.007A,007A-kancelář
+A1.1PP.007B,007B-sklad
+A1.1PP.007C,007C-sociální zázemí
+A1.1PP.008,008-kancelář
+A1.1PP.008A,008A-chodba
+A1.1PP.009,009-kancelář
+A1.1PP.009A,009A-chodba
+A1.1PP.010,010-kancelář
+A1.1PP.011,011-chodba
+A1.1PP.012,012-kancelář
+A1.1PP.013,013-chodba
+A1.1PP.014,014-WC
+A1.1PP.015,015-kancelář
+A1.1PP.016,016-chodba
+A1.1PP.017,017-chodba
+A1.1PP.018,018-výrobní prostory
+A1.1PP.019,019-výrobní prostory
+A1.1PP.020,020-WC
+A1.1PP.021,021-sklad
+A1.1PP.022,022-schody
+A1.1PP.023,023-chodba
+A1.1PP.024,024-výrobní prostory
+A1.1PP.025,025-výrobní prostory
+A1.1PP.051,051-chodba
+A1.1PP.052,052-šatna
+A1.1PP.053,053-WC
+A1.1PP.054,054-šatna
+A1.1PP.055,055-WC
+A1.1PP.056,056-kancelář
+A1.1PP.056A,056A-kancelář
+A1.1PP.056B,056B-kancelář
+A1.1PP.057,057-sklad
+A1.1PP.058,058-sklad
+A1.1PP.059,059-sklad
+A1.1PP.060,060-chodba
+A1.1PP.061,061-sklad
+A1.1PP.062,062-sklad
+A1.1PP.063,063-sklad
+A1.1PP.064,064-výrobní prostory
+A1.1PP.065,065-sklad
+A1.1PP.066,066-výrobní prostory
+A1.1PP.067,067-sociální zázemí
+A1.1PP.068,068-výrobní prostory
+A1.1PP.069,069-sklad
+A1.1PP.070,070-kuchyň
+A1.1PP.071,071-schody
+A1.1PP.072,072-schody
+A1.1PP.073,073-kuchyň
+A1.1PP.074,074-kuchyň
+A1.1PP.075,075-chodba
+A1.1PP.076,076-jídelna
+A1.1PP.077,077-WC
+A1.1PP.078,078-WC
+A1.1PP.079,079-WC
+A1.1PP.080,080-chodba
+A1.1PP.082,082-sociální zázemí
+A1.1PP.083,083-sklad
+A1.1PP.084,084-sociální zázemí
+A1.1PP.084A,084A-sociální zázemí
+A1.1PP.084B,084B-kuchyň
+A1.1PP.085,085-chodba
+A1.1PP.086,086-výrobní prostory
+A1.1PP.087,087-výrobní prostory
+A1.1PP.088,088-WC
+A1.1PP.089,089-schody
+A1.1PP.090,090-sklad
+A1.1PP.091,091-výrobní prostory
+A1.2MP.600,600-chodba
+A1.2MP.601,601-kancelář
+A1.2MP.605,605-WC
+A1.2MP.607,607-WC
+A1.2MP.609,609-výrobní prostory
+A1.2MP.610,610-kancelář
+A1.2MP.611,611-kancelář
+A1.2MP.612,612-kancelář
+A1.2MP.613,613-kancelář
+A1.2MP.614,614-kancelář
+A1.2MP.616,616-kancelář
+A1.2MP.617,617-kancelář
+A1.2MP.618,618-kancelář
+A1.2MP.619,619-kancelář
+A1.2MP.620,620-kancelář
+A1.2MP.621,621-kancelář
+A1.2MP.622,622-kancelář
+A1.2MP.623,623-kancelář
+A1.2MP.624,624-kancelář
+A1.2MP.625,625-kancelář
+A1.2MP.626,626-kancelář
+A1.2MP.627,627-kancelář
+A1.2MP.628,628-sklad
+A1.2MP.630,630-kancelář
+A1.2MP.631,631-kancelář
+A1.2NP.200,200-chodba
+A1.2NP.201,201-schody
+A1.2NP.202,202-kancelář
+A1.2NP.203,203-kancelář
+A1.2NP.204,204-kancelář
+A1.2NP.205,205-kancelář
+A1.2NP.206,206-kancelář
+A1.2NP.207,207-kancelář
+A1.2NP.208,208-kancelář
+A1.2NP.209,209-sklad
+A1.2NP.210,210-kancelář
+A1.2NP.211,211-kancelář
+A1.2NP.212,212-kancelář
+A1.2NP.213,213-kancelář
+A1.2NP.214,214-kancelář
+A1.2NP.215,215-kancelář
+A1.2NP.216,216-schody
+A1.2NP.217,217-chodba
+A1.2NP.218,218-kancelář
+A1.2NP.219,219-kancelář
+A1.2NP.220,220-kancelář
+A1.2NP.221,221-WC
+A1.2NP.222,222-WC
+A1.2NP.223,223-WC
+A1.2NP.224,224-WC
+A1.2NP.225,225-schody
+A1.2NP.226,226-WC
+A1.2NP.227,227-WC
+A1.2NP.228,228-sociální zázemí
+A1.2NP.229,229-WC
+A1.2NP.230,230-kancelář
+A1.2NP.231,231-kancelář
+A1.2NP.232,232-chodba
+A1.2NP.233,233-schody
+A1.2NP.234,234-chodba
+A1.2NP.235,235-kancelář
+A1.2NP.236,236-WC
+A1.2NP.238,238-sociální zázemí
+A1.2NP.239,239-kancelář
+A1.2NP.240,240-kancelář
+A1.2NP.241,241-kancelář
+A1.2NP.242,242-chodba
+A1.2NP.243,243-sklad
+A1.2NP.244,244-garáž
+A1.2NP.245,245-dílna
+A1.2NP.246A,246A-chodba
+A1.2NP.246B,246B-chodba
+A1.2NP.246C,246C-kancelář
+A1.2NP.246D,246D-sociální zázemí
+A1.2NP.246E,246E-kancelář
+A1.2NP.246F,246F-kancelář
+A1.2NP.247,247-chodba
+A1.2NP.247A,247A-schody
+A1.2NP.248,248-ateliér
+A1.2NP.250,250-kancelář
+A1.2NP.251,251-kancelář
+A1.2NP.252,252-kancelář
+A1.2NP.253,253-kancelář
+A1.2NP.254,254-kancelář
+A1.2NP.255,255-kancelář
+A1.2NP.256,256-sklad
+A1.2NP.257,257-výrobní prostory
+A1.2NP.258,258-kancelář
+A1.2NP.259,259-WC
+A1.2NP.260,260-kancelář
+A1.2NP.261,261-kancelář
+A1.2NP.262,262-WC
+A1.2NP.263,263-kancelář
+A1.2NP.264,264-kancelář
+A1.2NP.265,265-WC
+A1.2NP.266,266-kancelář
+A1.2NP.267,267-chodba
+A1.2NP.268,268-kancelář
+A1.2NP.269,269-WC
+A1.2NP.270,270-kancelář
+A1.2NP.271,271-kancelář
+A1.2NP.272,272-WC
+A1.2NP.273,273-kancelář
+A1.2NP.274,274-kancelář
+A1.2NP.275,275-WC
+A1.2NP.276,276-kancelář
+A1.2NP.278,278-WC
+A1.2NP.279,279-WC
+A1.2NP.280,280-schody
+A1.2NP.281,281-chodba
+A1.2NP.282,282-kancelář
+A1.2NP.283,283-kancelář
+A1.2NP.286,286-kancelář
+A1.2NP.287,287-schody
+A1.2NP.288,288-chodba
+A1.2NP.289,289-chodba
+A1.2NP.290,290-kancelář
+A1.2NP.291,291-kancelář
+A1.2NP.292,292-kancelář
+A1.2NP.293,293-kancelář
+A1.2NP.293A,293A-ZRUŠENO
+A1.2NP.294,294-WC
+A1.2NP.295,295-WC
+A1.2NP.296,296-WC
+A1.2NP.297,297-dílna
+A1.2NP.297A,297A-sklad
+A1.2NP.297B,297B-kancelář
+A1.2NP.297C,297C-schody
+A1.2NP.297D,297D-sklad
+A1.2NP.298,298-ateliér
+A1.3MP.701,701-chodba
+A1.3MP.702,702-kancelář
+A1.3MP.703,703-kancelář
+A1.3MP.704,704-kancelář
+A1.3MP.705,705-kancelář
+A1.3MP.706,706-sociální zázemí
+A1.3MP.706A,706A-WC
+A1.3MP.707,707-výrobní prostory
+A1.3MP.708,708-kancelář
+A1.3MP.709,709-kancelář
+A1.3MP.710,710-kancelář
+A1.3MP.711,711-kancelář
+A1.3NP.301,301-kancelář
+A1.3NP.302,302-kancelář
+A1.3NP.305,305-kancelář
+A1.3NP.309,309-kancelář
+A1.3NP.311,311-kancelář
+A1.3NP.312,312-sklad
+A1.3NP.313,313-kancelář
+A1.3NP.314,314-kancelář
+A1.3NP.315,315-kancelář
+A1.3NP.316,316-kancelář
+A1.3NP.317,317-kancelář
+A1.3NP.318,318-kancelář
+A1.3NP.319,319-chodba
+A1.3NP.319A,319A-kancelář
+A1.3NP.320,320-kancelář
+A1.3NP.322,322-kancelář
+A1.3NP.323,323-kancelář
+A1.3NP.324,324-WC
+A1.3NP.325,325-WC
+A1.3NP.326,326-chodba
+A1.3NP.327,327-WC
+A1.3NP.328,328-WC
+A1.3NP.329,329-sociální zázemí
+A1.3NP.331,331-kancelář
+A1.3NP.332,332-kancelář
+A1.3NP.334,334-kancelář
+A1.3NP.335,335-chodba
+A1.3NP.336,336-kancelář
+A1.3NP.337,337-sociální zázemí
+A1.3NP.338,338-kancelář
+A1.3NP.339,339-kancelář
+A1.3NP.340,340-kancelář
+A1.3NP.341,341-kancelář
+A1.3NP.342,342-kancelář
+A1.3NP.343,343-chodba
+A1.3NP.345,345-kancelář
+A1.3NP.346,346-kancelář
+A1.3NP.347,347-chodba
+A1.3NP.350,350-chodba
+A1.3NP.351,351-kancelář
+A1.3NP.352,352-kancelář
+A1.3NP.354,354-kancelář
+A1.3NP.355,355-kancelář
+A1.3NP.356,356-kancelář
+A1.3NP.357,357-sklad
+A1.3NP.358,358-výrobní prostory
+A1.3NP.359,359-sociální zázemí
+A1.3NP.360,360-kancelář
+A1.3NP.361,361-kancelář
+A1.3NP.363,363-kancelář
+A1.3NP.364,364-kancelář
+A1.3NP.365,365-kancelář
+A1.3NP.366,366-kancelář
+A1.3NP.368,368-kancelář
+A1.3NP.369,369-kancelář
+A1.3NP.370,370-kancelář
+A1.3NP.372,372-sociální zázemí
+A1.3NP.373,373-WC
+A1.3NP.375,375-chodba
+A1.3NP.376,376-chodba
+A1.3NP.377,377-WC
+A1.3NP.378,378-WC
+A1.3NP.379,379-WC
+A1.3NP.380,380-kancelář
+A1.3NP.381,381-kancelář
+A1.3NP.382,382-kancelář
+A1.3NP.383,383-chodba
+A1.3NP.384,384-kancelář
+A1.3NP.385,385-kancelář
+A1.3NP.386,386-kancelář
+A1.3NP.387,387-kancelář
+A1.3NP.388,388-kancelář
+A1.3NP.388A,388A-sociální zázemí
+A1.3NP.388B,388B-sociální zázemí
+A1.3NP.389,389-kancelář
+A1.3NP.390,390-kancelář
+A1.3NP.390A,390A-schody
+A1.3NP.390B,390B-chodba
+A1.3NP.391,391-schody
+A1.3NP.392,392-chodba
+A1.3NP.393,393-chodba
+A1.3NP.393A,393A-kancelář
+A1.3NP.393B,393B-kancelář
+A1.3NP.394,394-chodba
+A1.3NP.394A,394A-kancelář
+A1.3NP.394B,394B-kancelář
+A1.3NP.395,395-kancelář
+A1.3NP.395A,395A-chodba
+A1.3NP.395B,395B-kancelář
+A1.3NP.395C,395C-kancelář
+A1.4MP.800,800-chodba
+A1.4MP.801,801-sklad
+A1.4MP.802,802-sklad
+A1.4MP.803,803-sklad
+A1.4MP.804,804-sklad
+A1.4MP.805,805-sklad
+A1.4MP.806,806-sklad
+A1.4MP.807,807-sklad
+A1.4MP.808,808-sklad
+A1.4MP.809,809-sklad
+A1.4MP.810,810-sklad
+A1.4MP.811,811-sklad
+A1.4MP.812,812-sklad
+A1.4MP.813,813-sklad
+A1.4MP.814,814-sklad
+A1.4MP.815,815-výrobní prostory
+A1.4MP.816,816-sklad
+A1.4MP.817,817-sklad
+A1.4MP.818,818-sklad
+A1.4MP.819,819-sklad
+A1.4MP.820,820-sklad
+A1.4MP.821,821-sklad
+A1.4MP.822,822-sklad
+A1.4MP.823,823-sklad
+A1.4MP.824,824-sklad
+A1.4MP.825,825-sklad
+A1.4MP.826,826-sklad
+A1.4NP.401,401-schody
+A1.4NP.402,402-chodba
+A1.4NP.403,403-kancelář
+A1.4NP.404,404-kancelář
+A1.4NP.405,405-schody
+A1.4NP.406,406-kancelář
+A1.4NP.407,407-kancelář
+A1.4NP.408,408-chodba
+A1.4NP.409,409-WC
+A1.4NP.410,410-WC
+A1.4NP.412,412-chodba
+A1.4NP.412A,412A-chodba
+A1.4NP.413,413-kancelář
+A1.4NP.414,414-kancelář
+A1.4NP.415,415-kancelář
+A1.4NP.416,416-kancelář
+A1.4NP.417,417-kancelář
+A1.4NP.419,419-kancelář
+A1.4NP.420,420-kancelář
+A1.4NP.421,421-kancelář
+A1.4NP.422,422-WC
+A1.4NP.423,423-chodba
+A1.4NP.424,424-sklad
+A1.4NP.450,450-schody
+A1.4NP.452,452-kancelář
+A1.4NP.452A,452A-kancelář
+A1.4NP.453,453-kancelář
+A1.4NP.454,454-kancelář
+A1.4NP.455,455-kancelář
+A1.4NP.455A,455A-WC
+A10.1NP.101,101-sklad
+A10.1NP.102,102-kancelář
+A10.1NP.103,103-WC
+A10.1NP.104,104-WC
+A10.1NP.105,105-WC
+A10.1NP.106,106-sklad
+A10.1NP.107,107-kancelář
+A10.1NP.108,108-WC
+A10.1NP.109,109-WC
+A10.1NP.110,110-WC
+A10.1NP.111,111-sklad
+A10.1NP.112,112-kancelář
+A10.1NP.113,113-WC
+A10.1NP.114,114-WC
+A10.1NP.115,115-WC
+A10.1NP.116,116-sklad
+A10.1NP.117,117-kancelář
+A10.1NP.118,118-WC
+A10.1NP.119,119-WC
+A10.1NP.120,120-WC
+A10.1NP.121,121-výrobní prostory
+A10.1NP.122,122-úklid
+A10.2NP.201,201-sklad
+A10.2NP.202,202-dílna
+A10.2NP.203,203-sociální zázemí
+A10.2NP.204,204-WC
+A10.2NP.205,205-WC
+A10.2NP.206,206-WC
+A10.2NP.207,207-WC
+A10.2NP.208,208-dílna
+A10.2NP.209,209-dílna
+A10.2NP.210,210-kancelář
+A10.2NP.211,211-sklad
+A10.2NP.212,212-dílna
+A10.2NP.213,213-sociální zázemí
+A10.2NP.214,214-WC
+A10.2NP.215,215-WC
+A10.2NP.216,216-WC
+A10.2NP.217,217-WC
+A10.2NP.218,218-dílna
+A10.2NP.219,219-dílna
+A10.2NP.220,220-kancelář
+A10.2NP.221,221-úklid
+A4.1NP.101,101-výrobní prostory
+A4.1NP.102,102-výrobní prostory
+A4.1NP.103,103-výrobní prostory
+A4.1NP.104,104-výrobní prostory
+A4.1NP.105,105-výrobní prostory
+A4.1NP.106,106-výrobní prostory
+A4.1NP.107,107-výrobní prostory
+A4.1NP.108,108-výrobní prostory
+A4.1NP.109,109-výrobní prostory
+A4.1NP.110,110-výrobní prostory
+A4.1NP.111,111-výrobní prostory
+A4.1NP.111A,111A-výrobní prostory
+A4.1NP.111B,111B-výrobní prostory
+A4.1NP.112,112-kancelář
+A4.1NP.113,113-kancelář
+A4.1NP.113A,113A-sociální zázemí
+A4.1NP.114,114-chodba
+A4.1NP.115,115-chodba
+A4.1NP.116,116-sociální zázemí
+A4.1NP.116A,116A-WC
+A4.1NP.118,118-WC
+A4.1NP.119,119-schody
+A4.1NP.120,120-sociální zázemí
+A4.1NP.121,121-kancelář
+A4.1NP.122,122-kancelář
+A4.1PP.001,001-výrobní prostory
+A4.1PP.002,002-výrobní prostory
+A4.1PP.003,003-výrobní prostory
+A4.1PP.003A,003A-výrobní prostory
+A4.1PP.004,004-chodba
+A4.1PP.005,005-výrobní prostory
+A4.1PP.006,006-chodba
+A4.1PP.007,007-výrobní prostory
+A4.1PP.008,008-sklad
+A4.1PP.009,009-výrobní prostory
+A4.1PP.010,010-výrobní prostory
+A4.1PP.011,011-výrobní prostory
+A4.1PP.012,012-výrobní prostory
+A4.1PP.013,013-sklad
+A4.2NP.201,201-kancelář
+A4.2NP.203,203-kancelář
+A4.2NP.204,204-WC
+A4.2NP.205,205-WC
+A4.2NP.206,206-WC
+A4.2NP.207,207-schody
+A4.2NP.208,208-kancelář
+A4.2NP.210,210-výrobní prostory
+A5.1NP.101,101-chodba
+A5.1NP.103,103-kancelář
+A5.1NP.104,104-sklad
+A5.1NP.105,105-WC
+A5.1NP.106,106-WC
+A5.1NP.107,107-sociální zázemí
+A5.1NP.108,108-kancelář
+A5.1NP.109,109-kancelář
+A5.1NP.110,110-sklad
+A5.1NP.111,111-dílna
+A5.1NP.111A,111A-sklad
+A5.1NP.115,115-chodba
+A5.1NP.116,116-WC
+A5.1NP.117,117-WC
+A5.1NP.118,118-WC
+A5.1NP.119,119-dílna
+A5.1NP.120,120-výrobní prostory
+A5.1NP.121,121-dílna
+A5.1NP.124,124-dílna
+A5.1NP.126,126-schody
+A5.1NP.127,127-výrobní prostory
+A5.2NP.201,201-chodba
+A5.2NP.202,202-kancelář
+A5.2NP.203,203-kancelář
+A5.2NP.204,204-kancelář
+A5.2NP.205,205-sklad
+A5.2NP.206,206-sociální zázemí
+A5.2NP.207,207-WC
+A5.2NP.208,208-sociální zázemí
+A5.2NP.209,209-kancelář
+A5.2NP.210,210-kancelář
+A5.2NP.211,211-sociální zázemí
+A5.2NP.212,212-chodba
+A5.2NP.213,213-sklad
+A5.2NP.214,214-sklad
+A5.2NP.215,215-sklad
+A5.2NP.216,216-sklad
+A5.2NP.217,217-dílna
+A5.2NP.218,218-sklad
+A5.2NP.219,219-výrobní prostory
+A6.1NP.101,101-kancelář
+A6.1NP.102,102-chodba
+A6.1NP.103,103-kancelář
+A6.1NP.104,104-kancelář
+A6.1NP.105,105-kuchyň
+A6.1NP.106,106-kancelář
+A6.1NP.107,107-úklid
+A6.1NP.108,108-WC
+A6.1NP.109,109-WC
+A6.1NP.110,110-sklad
+A6.1NP.111,111-kancelář
+A6.1NP.114,114-chodba
+A6.1NP.115,115-chodba
+A6.1NP.116,116-chodba
+A6.1NP.116A,116A-kancelář
+A6.1NP.116B,116B-kancelář
+A6.1NP.117,117-kancelář
+A6.1NP.118,118-WC
+A6.1NP.119,119-WC
+A6.1NP.120,120-kancelář
+A7.1NP.101,101-kancelář
+A7.1NP.102,102-WC
+A7.1NP.103,103-WC
+A7.1NP.104,104-úklid
+A7.1NP.105,105-schody
+A7.1NP.106,106-kancelář
+A7.1NP.107,107-kancelář
+A7.1NP.108,108-kancelář
+A7.1NP.109,109-kancelář
+A7.2NP.201,201-sklad
+A7.2NP.202,202-schody
+A7.2NP.203,203-kancelář
+AA.1NP.101,101-kancelář
+AA.1NP.102,102-WC
+AA.1NP.103,103-WC
+AC.1NP.001,001-kancelář
+AC.1NP.002,002-kancelář
+AC.1NP.003,003-chodba
+AC.1NP.004,004-sociální zázemí
+AC.1NP.005,005-chodba
+AC.1NP.006,006-WC
+AC.1NP.007,007-WC
+AC.1NP.008,008-dílna
+AC.1NP.009,009-dílna
+AC.1NP.010,010-sklad
+AC.1NP.011,011-úklid
+AC.1NP.012,012-sociální zázemí
+AC.1NP.013,013-dílna
+AC.1NP.014,014-sklad
+AC.1NP.015,015-sklad
+AC.1NP.017,017-sklad
+AE.1NP.101,101-dílna
+AE.1NP.102,102-sklad
+AE.1NP.103,103-výrobní prostory
+AE.1NP.104,104-sklad
+B2.1NP.C_101,C 101-chodba
+B2.1NP.C_102,C 102-kancelář
+B2.1NP.C_103,C 103-kancelář
+B2.1NP.C_104,C 104-kancelář
+B2.1NP.C_105,C 105-WC
+B2.1NP.C_106,C 106-WC
+B2.1NP.C_107,C 107-kancelář
+B2.1NP.C_108,C 108-kancelář
+B2.1NP.C_109,C 109-chodba
+B2.1NP.C_110,C 110-kancelář
+B2.1NP.C_111,C 111-výrobní prostory
+B2.1NP.C_112,C 112-chodba
+B2.1NP.C_113,C 113-chodba
+B2.1NP.C_114A,C 114A-kancelář
+B2.1NP.C_114B,C 114B-kancelář
+B2.1NP.C_114C,C 114C-kancelář
+B2.1NP.C_114D,C 114D-chodba
+B2.1NP.C_114E,C 114E-chodba
+B2.1NP.C_115,C 115-kancelář
+B2.1NP.C_116,C 116-kancelář
+B2.1NP.C_117,C 117-kuchyň
+B2.1NP.C_118,C 118-schody
+B2.1NP.C_119,C 119-WC
+B2.1NP.C_120,C 120-úklidová místnost
+B2.1NP.C_121,C 121-WC
+B2.1PP.C_0101,C 0101-kancelář
+B2.1PP.C_0102,C 0102-kancelář
+B2.1PP.C_0103,C 0103-kancelář
+B2.1PP.C_0104,C 0104-kancelář
+B2.1PP.C_0105,C 0105-kancelář
+B2.1PP.C_0106,C 0106-kancelář
+B2.1PP.C_0107,C 0107-kancelář
+B2.1PP.C_0108,C 0108-výrobní prostory
+B2.1PP.C_0108A,C 0108A-výrobní prostory
+B2.1PP.C_0109,C 0109-kancelář
+B2.1PP.C_0110,C 0110-kancelář
+B2.1PP.C_0110A,C 0110A-kancelář
+B2.1PP.C_0110B,C 0110B-kancelář
+B3.1NP.101A,101A-schody
+B3.1NP.101B,101B-schody
+B3.1NP.101C,101C-schody
+B3.1NP.101D,101D-schody
+B3.1NP.101E,101E-výrobní prostory
+B3.1NP.101F,101F-výrobní prostory
+B3.1NP.101G,101G-výrobní prostory
+B3.1NP.102,102-WC
+B3.1NP.103,103-WC
+B3.1NP.104A,104A-chodba
+B3.1NP.104B,104B-chodba
+B3.1NP.104C,104C-chodba
+B3.1NP.105,105-dílna
+B3.1NP.106,106-dílna
+B3.1NP.107,107-dílna
+B3.1NP.108,108-dílna
+B3.1NP.109,109-dílna
+B3.1NP.110,110-dílna
+B3.1NP.111,111-dílna
+B3.1NP.112,112-dílna
+B3.1NP.113,113-dílna
+B3.1NP.114,114-dílna
+B3.1NP.115,115-dílna
+B3.1NP.116,116-dílna
+B3.1NP.117,117-dílna
+B3.1NP.118,118-dílna
+B3.1NP.119,119-chodba
+B3.1NP.120,120-sociální zázemí
+B3.1NP.121,121-kancelář
+B3.1NP.122,122-kancelář
+B3.1NP.123,123-výrobní prostory
+B3.1NP.124,124-schody
+B3.1NP.125,125-výrobní prostory
+B3.1NP.126,126-výrobní prostory
+B3.1NP.127,127-výrobní prostory
+B3.1NP.128,128-výrobní prostory
+B3.1NP.129,129-výrobní prostory
+B3.1NP.130,130-výrobní prostory
+B3.1NP.131,131-výrobní prostory
+B3.1NP.132,132-WC
+B3.1NP.133,133-výrobní prostory
+B3.1NP.134,134-sociální zázemí
+B3.1NP.135,135-šatna
+B3.1NP.136,136,137-sklad
+B3.1NP.138,138-kancelář
+B3.1NP.139,139-kancelář
+B3.1NP.140,140-chodba
+B3.1NP.141,141-sociální zázemí
+B3.1NP.142,142-chodba
+B3.1NP.143,143-WC
+B3.1NP.144,144-sklad
+B3.1NP.154,154-kancelář
+B3.1NP.155,155-kancelář
+B3.1NP.156,156-kancelář
+B3.1NP.157,157-kancelář
+B3.1NP.158,158-kancelář
+B3.1NP.159,159-kancelář
+B3.1NP.160,160-WC
+B3.1NP.161,161-chodba
+B3.1NP.162,162-WC
+B3.1NP.163,163-sklad
+B3.1NP.164,164-sklad
+B3.1NP.165,165-sklad
+B3.1NP.166,166-chodba
+B3.1NP.167,167-chodba
+B3.1NP.168,168-sklad
+B3.1NP.169,169-sklad
+B3.1NP.170,170-sklad
+B3.1NP.171,171-chodba
+B3.1NP.172,172-kancelář
+B3.1NP.173,173-kancelář
+B3.1NP.174,174-kancelář
+B3.1NP.175,175-kancelář
+B3.1NP.176,176-kancelář
+B3.1NP.177,177-kancelář
+B3.1NP.178,178-kancelář
+B3.1NP.179,179-kancelář
+B3.1NP.180,180-kancelář
+B3.1NP.181,181-chodba
+B3.1NP.182,182-chodba
+B3.1NP.183,183-kancelář
+B3.1PP.001A,001A-schody
+B3.1PP.001B,001B-schody
+B3.1PP.001C,001C-schody
+B3.1PP.001E,001E-výrobní prostory
+B3.1PP.002,002-WC
+B3.1PP.003,003-WC
+B3.1PP.004,004-chodba
+B3.1PP.005,005-kancelář
+B3.1PP.006,006-kancelář
+B3.1PP.007,007-kancelář
+B3.1PP.008,008-kancelář
+B3.1PP.009,009-kancelář
+B3.1PP.010,010-chodba
+B3.1PP.011,011-sklad
+B3.1PP.012,012-sklad
+B3.1PP.013,013-sklad
+B3.1PP.014,014-sklad
+B3.1PP.015,015-sklad
+B3.1PP.016,016-výrobní prostory
+B3.1PP.017,017-výrobní prostory
+B3.1PP.018,018-výrobní prostory
+B3.1PP.019,019-chodba
+B3.1PP.020,020-chodba
+B3.1PP.021,021-výrobní prostory
+B3.1PP.022,022-výrobní prostory
+B3.1PP.023,023-výrobní prostory
+B3.1PP.024,024-výrobní prostory
+B3.1PP.025,025-výrobní prostory
+B3.1PP.026,026-výrobní prostory
+B3.1PP.027,027-výrobní prostory
+B3.1PP.028,028-výrobní prostory
+B3.1PP.029,029-výrobní prostory
+B3.1PP.030,030-výrobní prostory
+B3.1PP.031,031-výrobní prostory
+B3.1PP.031A,031A-výrobní prostory
+B3.1PP.031B,031B-výrobní prostory
+B3.1PP.032,032-výrobní prostory
+B3.1PP.032A,032A-výrobní prostory
+B3.1PP.032B,032B-výrobní prostory
+B3.1PP.033,033-výrobní prostory
+B3.1PP.034,034-výrobní prostory
+B3.1PP.035,035-sklad
+B3.1PP.036,036-sklad
+B3.1PP.037,037-sklad
+B3.1PP.038,038-sklad
+B3.1PP.039,039-sklad
+B3.1PP.040,040-chodba
+B3.1PP.041,041-výrobní prostory
+B3.1PP.042,042-výrobní prostory
+B3.1PP.043,043-výrobní prostory
+B3.1PP.044,044-výrobní prostory
+B3.1PP.045,045-WC
+B3.1PP.046,046-WC
+B3.1PP.047,047-výrobní prostory
+B3.1PP.048,048-sklad
+B3.1PP.049,049-chodba
+B3.1PP.050,050-výrobní prostory
+B3.1PP.051,051-výrobní prostory
+B3.1PP.061,061-chodba
+B3.1PP.062,062-výrobní prostory
+B3.1PP.063,063-výrobní prostory
+B3.1PP.064,064-výrobní prostory
+B3.1PP.065,065-výrobní prostory
+B3.1PP.066,066-výrobní prostory
+B3.1PP.067,067-výrobní prostory
+B3.1PP.068,068-výrobní prostory
+B3.2NP.201A,201A-schody
+B3.2NP.201B,201B-schody
+B3.2NP.201C,201C-schody
+B3.2NP.201D,201D-schody
+B3.2NP.201E,201E-výrobní prostory
+B3.2NP.201F,201F-výrobní prostory
+B3.2NP.201G,201G-výrobní prostory
+B3.2NP.202,202-výrobní prostory
+B3.2NP.203,203-WC
+B3.2NP.204,204-výrobní prostory
+B3.2NP.205,205-výrobní prostory
+B3.2NP.206,206-výrobní prostory
+B3.2NP.207,207-výrobní prostory
+B3.2NP.208,208-výrobní prostory
+B3.2NP.209,209-výrobní prostory
+B3.2NP.210,210-výrobní prostory
+B3.2NP.211,211-výrobní prostory
+B3.2NP.212,212-výrobní prostory
+B3.2NP.213,213-výrobní prostory
+B3.2NP.214,214-výrobní prostory
+B3.2NP.215,215-výrobní prostory
+B3.2NP.216,216-výrobní prostory
+B3.2NP.217,217-chodba
+B3.2NP.218,218-výrobní prostory
+B3.2NP.219,219-výrobní prostory
+B3.2NP.220,220-výrobní prostory
+B3.2NP.221,221-výrobní prostory
+B3.2NP.222,222-výrobní prostory
+B3.2NP.223,223-chodba
+B3.2NP.224,224-sklad
+B3.2NP.225,225-chodba
+B3.2NP.226,226-chodba
+B3.2NP.227,227-výrobní prostory
+B3.2NP.228,228-chodba
+B3.2NP.229,229-výrobní prostory
+B3.2NP.230,230-výrobní prostory
+B3.2NP.231,231-výrobní prostory
+B3.2NP.232,232-výrobní prostory
+B3.2NP.233,233-výrobní prostory
+B3.2NP.234,234-výrobní prostory
+B3.2NP.235,235-výrobní prostory
+B3.2NP.237,237-výrobní prostory
+B3.2NP.238,238-chodba
+B3.2NP.239,239-výrobní prostory
+B3.2NP.240,240-chodba
+B3.2NP.241,241-výrobní prostory
+B3.2NP.242,242-výrobní prostory
+B3.2NP.243,243-výrobní prostory
+B3.2NP.244,244-výrobní prostory
+B3.2NP.245,245-chodba
+B3.2NP.246,246-chodba
+B3.2NP.247,247-kancelář
+B3.2NP.248,248-kancelář
+B3.2NP.249,249-kancelář
+B3.2NP.250,250-kancelář
+B3.2NP.251,251-sklad
+B3.2NP.252,252-sklad
+B3.2NP.253,253-WC
+B3.2NP.254,254-sklad
+B3.2NP.255,255-WC
+B3.2NP.256,256-sklad
+B3.2NP.257,257-chodba
+B3.2NP.267,267-kancelář
+B3.2NP.268,268-kancelář
+B3.2NP.269,269-kancelář
+B3.2NP.270,270-kancelář
+B3.2NP.271,271-kancelář
+B3.2NP.272,272-sklad
+B3.2NP.273,273-sklad
+B3.2NP.274,274-sklad
+B3.2NP.275,275-sklad
+B3.2NP.276,276-chodba
+B3.2NP.277,277-kancelář
+B3.2NP.278,278-sklad
+B3.2NP.279,279-sklad
+B3.2NP.280,280-chodba
+B3.2NP.281,281-chodba
+B3.2NP.282,282-sklad
+B3.2NP.283,283-sklad
+B3.2NP.284,284-sklad
+B3.2NP.285,285-chodba
+B3.2NP.286,286-sklad
+B3.2NP.287,287-sklad
+B3.3NP.301A,301A-schody
+B3.3NP.301D,301D-schody
+B3.3NP.301E,301E-výrobní prostory
+B3.3NP.301F,301F-výrobní prostory
+B3.3NP.301G,301G-výrobní prostory
+B3.3NP.302,302-chodba
+B3.3NP.303,303-výrobní prostory
+B3.3NP.304,304-kancelář
+B3.3NP.305,305-kancelář
+B3.3NP.306,306-sklad
+B3.3NP.307,307-kancelář
+B3.3NP.308,308-kancelář
+B3.3NP.309,309-kancelář
+B3.3NP.310,310-kancelář
+B3.3NP.311,311-kancelář
+B3.3NP.312,312-kancelář
+B3.3NP.313,313-kancelář
+B3.3NP.314,314-kancelář
+B3.3NP.315,315-WC
+B3.3NP.316,316-sklad
+B3.3NP.317,317-WC
+B3.3NP.318,318-sklad
+B3.3NP.328,328-kancelář
+B3.3NP.329,329-kancelář
+B3.3NP.330,330-chodba
+B3.3NP.331,331-kancelář
+B3.3NP.332,332-kancelář
+B3.3NP.333,333-kancelář
+B3.3NP.334,334-chodba
+B3.3NP.335,335-kancelář
+B3.3NP.336,336-kancelář
+B3.3NP.337,337-kancelář
+B3.3NP.338,338-kancelář
+B3.3NP.339,339-kancelář
+B3.3NP.340,340-kancelář
+B3.3NP.341,341-kancelář
+B3.3NP.342,342-kancelář
+B3.3NP.343,343-kancelář
+B3.3NP.344,344-sociální zázemí
+B3.3NP.345,345-kancelář
+B3.3NP.346,346-kancelář
+B3.3NP.347,347-kancelář
+B3.3NP.348,348-kancelář
+B3.3NP.349,349-kancelář
+B3.3NP.350,350-kancelář
+B3.3NP.351,351-kancelář
+B3.3NP.352,352-kancelář
+B3.3NP.353,353-kancelář
+B4.1NP.101,101-výrobní prostory
+B4.1NP.102,102-výrobní prostory
+B4.1NP.103,103-výrobní prostory
+B4.1NP.104,104-výrobní prostory
+B4.1NP.105,105-chodba
+B4.1NP.106,106-sklad
+B4.1NP.107,107-sklad
+B4.1NP.108,108-chodba
+B4.1NP.109,109-sklad
+B4.1NP.110,110-sklad
+B4.1NP.111,111-výrobní prostory
+B4.1NP.112,112-výrobní prostory
+B5.1NP.101,101-chodba
+B5.1NP.101A,101A-WC
+B5.1NP.102,102-sklad
+B5.1NP.103,103-sklad
+B5.1PP.001,001-sklad
+B5.1PP.002,002-schody
+B6.1NP.101,101-chodba
+B6.1NP.102,102-sklad
+B6.1NP.103,103-WC
+B6.1NP.104,104-WC
+B6.1NP.105,105-kancelář
+B6.1NP.106,106-výrobní prostory
+B6.1NP.107,107-výrobní prostory
+B6.1NP.108,108-sociální zázemí
+B6.1NP.109,109-WC
+B6.1NP.110,110-sklad
+B7.1NP.01,01-dílna
+B7.1NP.010,010-sklad
+B7.1NP.011,011-schody
+B7.1NP.03,03-sklad
+B7.1NP.04A,04A-kancelář
+B7.1NP.04B,04B-kancelář
+B7.1NP.05A,05A-kancelář
+B7.1NP.05B,05B-sociální zázemí
+B7.1NP.06A,06A-kancelář
+B7.1NP.06B,06B-sociální zázemí
+B7.1NP.07,07-WC
+B7.1NP.08,08-chodba
+B7.1NP.09,09-chodba
+B7.2NP.11,11-kancelář
+B7.2NP.12,12-kancelář
+B7.2NP.13,13-kancelář
+B7.2NP.14,14-kancelář
+B7.2NP.15,15-kancelář
+B7.2NP.16,16-chodba
+BA.1NP.001,001-kancelář
+BA.1NP.001A,001A-kancelář
+BA.1NP.001B,001B-Výrobní prostory
+BA.1NP.002,002-kancelář
+BA.1NP.003,003-kancelář
+BA.1NP.004,004-dílna
+BA.1NP.005,005-sklad
+BA.1NP.006,006-WC
+BA.1NP.007,007-WC
+BA.1NP.008,008-chodba
+BA.1NP.009,009-dílna
+BA.1NP.010A,010A-dílna
+BA.1NP.010B,010B-dílna
+BA.1NP.010C,010C-kancelář
+BA.1NP.010D,010D-WC
+BB.1NP.101,101-chodba
+BB.1NP.102,102-výtah
+BB.1NP.103,103-chodba
+BB.1NP.104,104-chodba
+BB.1NP.105,105-chodba
+BB.1NP.106,106-chodba
+BB.1NP.107,107-sklad
+BB.1NP.108,108-sklad
+BB.1NP.109,109-sklad
+BB.1NP.110,110-sklad
+BB.1NP.111,111-sklad
+BB.1NP.112,112-sklad
+BB.1NP.113,113-sklad
+BB.1NP.114,114-sklad
+BB.1NP.115,115-sklad
+BB.1NP.116,116-sklad
+BB.1NP.117,117-sklad
+BB.1NP.118,118-sklad
+BB.1NP.119,119-sklad
+BB.1NP.120,120-sklad
+BB.1NP.121,121-sklad
+BB.1NP.122,122-sklad
+BB.1NP.123,123-sklad
+BB.1NP.124,124-sklad
+BB.1NP.125,125-sklad
+BB.1NP.126,126-sklad
+BB.1NP.127,127-sklad
+BB.1NP.128,128-sklad
+BB.1NP.129,129-sklad
+BB.1NP.130,130-sklad
+BB.1NP.131,131-chodba
+BB.1NP.132,132-chodba
+BB.1NP.133,133-chodba
+BB.1NP.134,134-chodba
+BB.1NP.135,135-sklad
+BB.1NP.136,136-sklad
+BB.1NP.137,137-sklad
+BB.1NP.138,138-sklad
+BB.1NP.139,139-sklad
+BB.1NP.140,140-sklad
+BB.1NP.141,141-sklad
+BB.1NP.142,142-sklad
+BB.1NP.143,143-sklad
+BB.1NP.144,144-sklad
+BB.1NP.145,145-sklad
+BB.1NP.146,146-sklad
+BB.1NP.147,147-sklad
+BB.1NP.148,148-sklad
+BB.1NP.149,149-sklad
+BB.1NP.150,150-sklad
+BB.1NP.151,151-sklad
+BB.1NP.152,152-sklad
+BB.1NP.153,153-sklad
+BB.1NP.154,154-sklad
+BB.1NP.155,155-sklad
+BB.1NP.156,156-sklad
+BB.1NP.157,157-sklad
+BB.1NP.158,158-sklad
+BB.1PP.001,001-výrobní prostory
+BB.1PP.002,002-chodba
+BB.1PP.003,003-výtah
+C1.1NP.C1-101,C1-101-kancelář
+C1.1NP.C1-102,C1-102-kancelář
+C1.1NP.C1-103,C1-103-kancelář
+C1.1NP.C1-104,C1-104-kancelář
+C1.1NP.C1-105,C1-105-kancelář
+C1.1NP.C1-106,C1-106-kancelář
+C1.1NP.C1-106A,C1-106A-kancelář
+C1.1NP.C1-106B,C1-106B-kancelář
+C1.1NP.C1-107,C1-107-sklad
+C1.1NP.C1-108,C1-108-kancelář
+C1.1NP.C1-109,C1-109-sklad
+C1.1NP.C1-110,C1-110-technická místnost
+C1.1NP.C1-111,C1-111-technická místnost
+C1.1NP.C1-112,C1-112-kancelář
+C1.1NP.C1-113,C1-113-kancelář
+C1.1NP.C1-114,C1-114-technická místnost
+C1.1NP.C1-114A,C1-114A-technická místnost
+C1.1NP.C1-115,C1-115-studio
+C1.1NP.C1-116,C1-116-zázemí studia
+C1.1NP.C1-116A,C1-116A-zázemí studia
+C1.1NP.C1-117,C1-117-kancelář
+C1.1NP.C1-117A,C1-117A-kancelář
+C1.1NP.C1-118,C1-118-kancelář
+C1.1NP.C1-118A,C1-118A-kancelář
+C1.1NP.C1-119,C1-119-kancelář
+C1.1NP.C1-119A,C1-119A-kancelář
+C1.1NP.C1-120,C1-120-kancelář
+C1.1NP.C1-120A,C1-120A-kancelář
+C1.1NP.C1-121,C1-121-kancelář
+C1.1NP.C1-121A,C1-121A-kancelář
+C1.1NP.C1-121B,C1-121B-kancelář
+C1.1NP.C1-122,C1-122-kancelář
+C1.1NP.C1-122A,C1-122A-kancelář
+C1.1NP.C1-123,C1-123-sklad
+C1.1NP.C1-124,C1-124-kancelář
+C1.1NP.C1-125,C1-125-kancelář
+C1.1NP.C1-126,C1-126-kancelář
+C1.1NP.C1-127,C1-127-kancelář
+C1.1NP.C1-128,C1-128-kancelář
+C1.1NP.C1-129,C1-129-serverovna
+C1.1NP.C1-130,C1-130-kancelář
+C1.1NP.C1-131,C1-131-kancelář
+C1.1NP.C1-132,C1-132-kancelář
+C1.1NP.C1-133,C1-133-kancelář
+C1.1NP.C1-134,C1-134-WC
+C1.1NP.C1-135,C1-135-WC
+C1.1NP.C1-136,C1-136-úklid
+C1.1NP.C1-137,C1-137-kuchyňka
+C1.1NP.C1-138,C1-138-kancelář
+C1.1NP.C1-139,C1-139-kancelář
+C1.1NP.C1-140,C1-140-kancelář
+C1.1NP.C1-141,C1-141-kancelář
+C1.1NP.C1-142,C1-142-kancelář
+C1.1NP.C1-143,C1-143-kancelář
+C1.1NP.C1-144,C1-144-WC
+C1.1NP.C1-145,C1-145-kancelář
+C1.1NP.C1-146,C1-146-WC
+C1.1NP.C1-147,C1-147-kancelář
+C1.1NP.C1-148,C1-148-kancelář
+C1.1NP.C1-149,C1-149-kancelář
+C1.1NP.C1-150,C1-150-kancelář
+C1.1NP.C1-151,C1-151-kancelář
+C1.1NP.C1-152,C1-152-kancelář
+C1.1NP.C1-153,C1-153-WC
+C1.1NP.C1-154,C1-154-WC
+C1.1NP.C1-155,C1-155-sklad
+C1.1NP.C1-155A,C1-155A-sklad
+C1.1NP.C1-155B,C1-155B-sklad
+C1.1NP.C1-156,C1-156-kancelář
+C1.1NP.C1-157,C1-157-kancelář
+C1.1NP.C1-158,C1-158-kancelář
+C1.1NP.C1-159,C1-159-sklad
+C1.1NP.C1-160,C1-160-kancelář
+C1.1NP.C1-161,C1-161-kancelář
+C1.1NP.C1-162,C1-162-kancelář
+C1.1NP.C1-163,C1-163-kancelář
+C1.1NP.C1-164,C1-164-kancelář
+C1.1NP.C1-165,C1-165-kancelář
+C1.1NP.C1-166,C1-166-kancelář
+C1.1NP.C1-167,C1-167-kancelář
+C1.1NP.C1-168,C1-168-kancelář
+C1.1NP.C1-169,C1-169-WC
+C1.1NP.C1-170,C1-170-WC
+C1.1NP.C1-171,C1-171-úklid
+C1.1NP.C1-172,C1-172-kuchyňka
+C1.1NP.C1-173,C1-173-sklad
+C1.1NP.C1-174,C1-174-kancelář
+C1.1NP.C1-175,C1-175-kancelář
+C1.1NP.C1-176,C1-176-kancelář
+C1.1NP.C1-176A,C1-176A-kancelář
+C1.1NP.C1-176B,C1-176B-kancelář
+C1.1NP.C1-176C,C1-176C-kancelář
+C1.1NP.C1-177,C1-177-kancelář
+C1.1NP.C1-178,C1-178-kancelář
+C1.1NP.C1-179,C1-179-kancelář
+C1.1NP.C1-179A,C1-179A-kancelář
+C1.1NP.C1-180,C1-180-kancelář
+C1.1NP.C1-181,C1-181-sklad
+C1.1NP.C1-182,C1-182-sklad
+C1.1NP.C1-183,C1-183-sklad
+C1.1NP.C1-184,C1-184-technická místnost
+C1.1NP.C1-185,C1-185-šatna
+C1.1NP.C1-185A,C1-185A-sprchy
+C1.1NP.C1-185B,C1-185B-sprchy
+C1.1NP.C1-185C,C1-185C-šatna
+C1.1NP.C1-CH1,C1-CH1-chodba
+C1.1NP.C1-CH1A,C1-CH1A-chodba
+C1.1NP.C1-CH2,C1-CH2-chodba
+C1.1NP.C1-CH3,C1-CH3-chodba
+C1.1NP.C1-CH3A,C1-CH3A-chodba
+C1.1NP.C1-CH3B,C1-CH3B-chodba
+C1.1NP.C1-CH4,C1-CH4-chodba
+C1.1NP.C1-CH4A,C1-CH4A-chodba
+C1.1NP.C1-CH5,C1-CH5-chodba
+C1.1NP.C1-CH5A,C1-CH5A-chodba
+C1.1NP.C1-CH6,C1-CH6-chodba
+C1.1NP.C1-CH7,C1-CH7-chodba
+C1.1NP.C1-S1,C1-S1-schody
+C1.1NP.C1-S2A,C1-S2A-schody
+C1.1NP.C1-V1,C1-V1-výtah
+C1.1NP.C1-V2,C1-V2-výtah
+C1.1NP.C1-V3,C1-V3-výtah
+C1.1PP.C1-01,C1-01-WC
+C1.1PP.C1-010,C1-010-sklad
+C1.1PP.C1-011,C1-011-sklad
+C1.1PP.C1-011A,C1-011A-sklad
+C1.1PP.C1-012,C1-012-sklad
+C1.1PP.C1-013,C1-013-sklad
+C1.1PP.C1-013A,C1-013A-sklad
+C1.1PP.C1-014,C1-014-sklad
+C1.1PP.C1-015,C1-015-výrobní prostory
+C1.1PP.C1-016,C1-016-sklad
+C1.1PP.C1-016A,C1-016A-sklad
+C1.1PP.C1-016B,C1-016B-sklad
+C1.1PP.C1-016C,C1-016C-sklad
+C1.1PP.C1-016D,C1-016D-sklad
+C1.1PP.C1-02,C1-02-WC
+C1.1PP.C1-03,C1-03-sklad
+C1.1PP.C1-04,C1-04-výrobní prostory
+C1.1PP.C1-05,C1-05-výrobní prostory
+C1.1PP.C1-05A,C1-05A-výrobní prostory
+C1.1PP.C1-05B,C1-05B-výrobní prostory
+C1.1PP.C1-06,C1-06-výrobní prostory
+C1.1PP.C1-07,C1-07-výrobní prostory
+C1.1PP.C1-08,C1-08-výrobní prostory
+C1.1PP.C1-09,C1-09-sklad
+C1.1PP.C1-CH01,C1-CH01-chodba
+C1.1PP.C1-CH01A,C1-CH01A-chodba
+C1.1PP.C1-S2,C1-S2-schody
+C1.1PP.C1-V2,C1-V2-výtah
+C1.1PP.C1-V3,C1-V3-výtah
+C1.2NP.C1-CH10,C1-CH10-chodba
+C1.2NP.C1-CH8,C1-CH8-chodba
+C1.2NP.C1-M201,C1-M201-kancelář
+C1.2NP.C1-M202,C1-M202-kancelář
+C1.2NP.C1-M203,C1-M203-kancelář
+C1.2NP.C1-M204,C1-M204-kancelář
+C1.2NP.C1-M205,C1-M205-kancelář
+C1.2NP.C1-M206,C1-M206-kancelář
+C1.2NP.C1-M207,C1-M207-kancelář
+C1.2NP.C1-M208,C1-M208-sklad
+C1.2NP.C1-M209,C1-M209-technická místnost
+C1.2NP.C1-M210,C1-M210-kancelář
+C1.2NP.C1-M210A,C1-M210A-kancelář
+C1.2NP.C1-M211,C1-M211-WC
+C1.2NP.C1-M212,C1-M212-WC
+C1.2NP.C1-S1A,C1-S1A-schody
+C1.2NP.C1-S2B,C1-S2B-schody
+C1.2NP.C1-V1,C1-V1-výtah
+C1.2NP.C1-V2,C1-V2-výtah
+C1.2NP.C1-V201,C1-V201-kancelář
+C1.2NP.C1-V202,C1-V202-kancelář
+C1.2NP.C1-V203,C1-V203-kancelář
+C1.2NP.C1-V204,C1-V204-kancelář
+C1.2NP.C1-V205,C1-V205-kancelář
+C1.2NP.C1-V206,C1-V206-kancelář
+C1.2NP.C1-V207,C1-V207-kancelář
+C1.2NP.C1-V208,C1-V208-kancelář
+C1.2NP.C1-V209,C1-V209-sklad
+C1.2NP.C1-V210,C1-V210-kancelář
+C1.2NP.C1-V211,C1-V211-kancelář
+C1.2NP.C1-V212,C1-V212-WC
+C1.2NP.C1-V213,C1-V213-WC
+C1.3NP.C1-CH9,C1-CH9-chodba
+C1.3NP.C1-S1B,C1-S1B-schody
+C1.3NP.C1-V1,C1-V1-výtah
+C1.3NP.C1-V301,C1-V301-kancelář
+C1.3NP.C1-V302,C1-V302-kancelář
+C1.3NP.C1-V303,C1-V303-kancelář
+C1.3NP.C1-V304,C1-V304-kancelář
+C1.3NP.C1-V305,C1-V305-kancelář
+C1.3NP.C1-V306,C1-V306-kancelář
+C1.3NP.C1-V307,C1-V307-kancelář
+C1.3NP.C1-V308,C1-V308-kancelář
+C1.3NP.C1-V309,C1-V309-kancelář
+C1.3NP.C1-V310,C1-V310-kancelář
+C1.3NP.C1-V311,C1-V311-sklad
+C1.3NP.C1-V312,C1-V312-technická místnost
+C1.3NP.C1-V313,C1-V313-kancelář
+C1.3NP.C1-V314,C1-V314-kancelář
+C1.3NP.C1-V315,C1-V315-kancelář
+C1.3NP.C1-V316,C1-V316-WC
+C1.3NP.C1-V317,C1-V317-WC
+C10.1NP.1,1-jídelna
+C10.1NP.2,2-jídelna
+C3.1NP.C3-101,C3-101-WC
+C3.1NP.C3-102,C3-102-kancelář
+C3.1NP.C3-102A,C3-102A-sociální zázemí
+C3.1NP.C3-103,C3-103-kancelář
+C3.1NP.C3-103A,C3-103A-sklad
+C3.1NP.C3-104,C3-104-kancelář
+C3.1NP.C3-104A,C3-104A-sociální zázemí
+C3.1NP.C3-105,C3-105-kancelář
+C3.1NP.C3-106,C3-106-sklad
+C3.1NP.C3-107,C3-107-kancelář
+C3.1NP.C3-108,C3-108-sklad
+C3.1NP.C3-109,C3-109-sklad
+C3.1NP.C3-110,C3-110-sklad
+C3.1NP.C3-111,C3-111-kancelář
+C3.1NP.C3-112,C3-112-kancelář
+C3.1NP.C3-113,C3-113-kancelář
+C3.1NP.C3-114,C3-114-úklid
+C3.1NP.C3-115,C3-115-dílna
+C3.1NP.C3-115A,C3-115A-dílna
+C3.1NP.C3-116,C3-116-dílna
+C3.1NP.C3-117,C3-117-dílna
+C3.1NP.C3-118,C3-118-dílna
+C3.1NP.C3-118A,C3-118A-dílna
+C3.1NP.C3-118B,C3-118B-dílna
+C3.1NP.C3-119,C3-119-dílna
+C3.1NP.C3-120,C3-120-dílna
+C3.1NP.C3-121,C3-121-ateliér
+C3.1NP.C3-122,C3-122-ateliér
+C3.1NP.C3-123,C3-123-ateliér
+C3.1NP.C3-124,C3-124-ateliér
+C3.1NP.C3-125,C3-125-ateliér
+C3.1NP.C3-126,C3-126-ateliér
+C3.1NP.C3-127,C3-127-sociální zázemí
+C3.1NP.C3-128,C3-128-WC
+C3.1NP.C3-129,C3-129-sklad
+C3.1NP.C3-130,C3-130-dílna
+C3.1NP.C3-131,C3-131-dílna
+C3.1NP.C3-131A,C3-131A-dílna
+C3.1NP.C3-132,C3-132-dílna
+C3.1NP.C3-133,C3-133-dílna
+C3.1NP.C3-134,C3-134-ateliér
+C3.1NP.C3-135,C3-135-dílna
+C3.1NP.C3-136,C3-136-ateliér
+C3.1NP.C3-137,C3-137-sklad
+C3.1NP.C3-138,C3-138-ateliér
+C3.1NP.C3-139,C3-139-kancelář
+C3.1NP.C3-140,C3-140-kancelář
+C3.1NP.C3-141,C3-141-kancelář
+C3.1NP.C3-142,C3-142-kancelář
+C3.1NP.C3-143,C3-143-kancelář
+C3.1NP.C3-144,C3-144-kancelář
+C3.1NP.C3-145,C3-145-kancelář
+C3.1NP.C3-146,C3-146-výrobní prostory
+C3.1NP.C3-147,C3-147-výrobní prostory
+C3.1NP.C3-148,C3-148-výrobní prostory
+C3.1NP.C3-149,C3-149-výrobní prostory
+C3.1NP.C3-150,C3-150-kancelář
+C3.1NP.C3-151,C3-151-kancelář
+C3.1NP.C3-152,C3-152-sklad
+C3.1NP.C3-153,C3-153-sklad
+C3.1NP.C3-154,C3-154-sklad
+C3.1NP.C3-155,C3-155-WC
+C3.1NP.C3-156,C3-156-úklid
+C3.1NP.C3-157,C3-157-WC
+C3.1NP.C3-158,C3-158-kuchyňka
+C3.1NP.C3-159,C3-159-kancelář
+C3.1NP.C3-160,C3-160-kancelář
+C3.1NP.C3-161,C3-161-kancelář
+C3.1NP.C3-162,C3-162-studio
+C3.1NP.C3-163,C3-163-studio
+C3.1NP.C3-164,C3-164-kancelář
+C3.1NP.C3-165,C3-165-kancelář
+C3.1NP.C3-166,C3-166-kancelář
+C3.1NP.C3-166A,C3-166A-sklad
+C3.1NP.C3-167,C3-167-kancelář
+C3.1NP.C3-168,C3-168-kancelář
+C3.1NP.C3-169,C3-169-kancelář
+C3.1NP.C3-169A,C3-169A-WC
+C3.1NP.C3-170,C3-170-kancelář
+C3.1NP.C3-170A,C3-170A-WC
+C3.1NP.C3-171,C3-171-kancelář
+C3.1NP.C3-172,C3-172-sklad
+C3.1NP.C3-173,C3-173-sklad
+C3.1NP.C3-178,C3-178-kancelář
+C3.1NP.C3-179,C3-179-WC
+C3.1NP.C3-180,C3-180-WC
+C3.1NP.C3-AT1,C3-AT1-ateliér 1
+C3.1NP.C3-AT1A,C3-AT1A-sklad
+C3.1NP.C3-AT1B,C3-AT1B-sklad
+C3.1NP.C3-AT2,C3-AT2-ateliér 2
+C3.1NP.C3-AT2A,C3-AT2A-sklad
+C3.1NP.C3-CH1,C3-CH1-chodba
+C3.1NP.C3-CH3,C3-CH3-chodba
+C3.1NP.C3-CH3A,C3-CH3A-chodba
+C3.1NP.C3-CH4,C3-CH4-chodba
+C3.1NP.C3-S1A,C3-S1A-chodba
+C3.1NP.C3-S2A,C3-S2A-schody
+C3.1NP.C3-S3C,C3-S3C-schody
+C3.1NP.C3-S4A,C3-S4A-schody
+C3.1NP.C3-V4,C3-V4-výtah
+C3.1NP.C3-V5,C3-V5-výtah
+C3.1PP.C3-01,C3-01-kancelář
+C3.1PP.C3-010,C3-010-kancelář
+C3.1PP.C3-010A,C3-010A-kancelář
+C3.1PP.C3-010B,C3-010B-kancelář
+C3.1PP.C3-011,C3-011-kancelář
+C3.1PP.C3-011A,C3-011A-kancelář
+C3.1PP.C3-011B,C3-011B-kancelář
+C3.1PP.C3-012,C3-012-kancelář
+C3.1PP.C3-012A,C3-012A-kancelář
+C3.1PP.C3-012B,C3-012B-kancelář
+C3.1PP.C3-013,C3-013-kancelář
+C3.1PP.C3-014,C3-014-sklad
+C3.1PP.C3-015,C3-015-výrobní prostory
+C3.1PP.C3-016,C3-016-výrobní prostory
+C3.1PP.C3-016A,C3-016A-výrobní prostory
+C3.1PP.C3-016B,C3-016B-výrobní prostory
+C3.1PP.C3-016C,C3-016C-výrobní prostory
+C3.1PP.C3-016D,C3-016D-výrobní prostory
+C3.1PP.C3-017,C3-017-výrobní prostory
+C3.1PP.C3-018,C3-018-sklad
+C3.1PP.C3-019,C3-019-sklad
+C3.1PP.C3-01A,C3-01A-kancelář
+C3.1PP.C3-02,C3-02-kancelář
+C3.1PP.C3-020,C3-020-sklad
+C3.1PP.C3-021,C3-021-sklad
+C3.1PP.C3-022,C3-022-výrobní prostory
+C3.1PP.C3-023,C3-023-sklad
+C3.1PP.C3-024,C3-024-výrobní prostory
+C3.1PP.C3-024A,C3-024A-rozvodna
+C3.1PP.C3-025,C3-025-výrobní prostory
+C3.1PP.C3-026,C3-026-kostymérna
+C3.1PP.C3-026A,C3-026A-kostymérna
+C3.1PP.C3-026B,C3-026B-kostymérna
+C3.1PP.C3-027,C3-027-kostymérna
+C3.1PP.C3-027A,C3-027A-kostymérna
+C3.1PP.C3-027B,C3-027B-kostymérna
+C3.1PP.C3-028,C3-028-sklad
+C3.1PP.C3-029,C3-029-garáž
+C3.1PP.C3-029A,C3-029A-sklad
+C3.1PP.C3-03,C3-03-WC
+C3.1PP.C3-030,C3-030-kancelář
+C3.1PP.C3-031,C3-031-sklad
+C3.1PP.C3-031A,C3-031A-sklad
+C3.1PP.C3-032,C3-032-sklad
+C3.1PP.C3-034,C3-034-sklad
+C3.1PP.C3-035,C3-035-úklid
+C3.1PP.C3-036,C3-036-WC
+C3.1PP.C3-037,C3-037-WC
+C3.1PP.C3-04,C3-04-WC
+C3.1PP.C3-05,C3-05-kancelář
+C3.1PP.C3-06,C3-06-kancelář
+C3.1PP.C3-06A,C3-06A-kancelář
+C3.1PP.C3-06B,C3-06B-kancelář
+C3.1PP.C3-06C,C3-06C-chodba
+C3.1PP.C3-07,C3-07-kancelář
+C3.1PP.C3-07A,C3-07A-kancelář
+C3.1PP.C3-07B,C3-07B-kancelář
+C3.1PP.C3-08,C3-08-kancelář
+C3.1PP.C3-08A,C3-08A-kancelář
+C3.1PP.C3-09,C3-09-kancelář
+C3.1PP.C3-CH01,C3-CH01-chodba
+C3.1PP.C3-CH02,C3-CH02-chodba
+C3.1PP.C3-CH03,C3-CH03-chodba
+C3.1PP.C3-CH04,C3-CH04-chodba
+C3.1PP.C3-CH05,C3-CH05-chodba
+C3.1PP.C3-S1,C3-S1-schody
+C3.1PP.C3-S2,C3-S2-schody
+C3.1PP.C3-S3,C3-S3-schody
+C3.1PP.C3-S4,C3-S4-schody
+C3.1PP.C3-V4,C3-V4-výtah
+C3.1PP.C3-V5,C3-V5-výtah
+C4.1NP.100,100-chodba
+C4.1NP.101,101-chodba
+C4.1NP.103,103-WC
+C4.1NP.104,104-sociální zázemí
+C4.1NP.104A,104A-sprchy
+C4.1NP.105,105-kancelář
+C4.1NP.108,108-WC
+C4.1NP.109,109-chodba
+C4.1NP.110,110-kancelář
+C4.1NP.111,111-sociální zázemí
+C4.1NP.112,112-kancelář
+C4.1NP.113,113-sklad
+C4.1NP.113A,113A-sklad
+C4.1NP.115,115-kancelář
+C4.1NP.116,116-kancelář
+C4.1NP.122,122-kancelář
+C4.1NP.123,123-chodba
+C4.1NP.124,124-schody
+C4.1NP.125,125-výtah
+C4.1NP.126,126-kancelář
+C4.1NP.127,127-kancelář
+C4.1NP.128,128-kancelář
+C4.1NP.129,129-kancelář
+C4.1NP.130,130-chodba
+C4.1NP.131,131-WC
+C4.1NP.132,132-WC
+C4.1NP.133,133-úklid
+C4.1NP.134,134-WC
+C4.1NP.135,135-WC
+C4.1NP.136,136-WC
+C4.1NP.137,137-kancelář
+C4.1NP.138,138-kancelář
+C4.1NP.139,139-výrobní prostory
+C4.1NP.140,140-kancelář
+C4.1NP.140A,140A-sociální zázemí
+C4.1NP.141,141-kancelář
+C4.1NP.143,143-kancelář
+C4.1NP.145,145-kancelář
+C4.1NP.146,146-kancelář
+C4.1NP.146A,146A-sociální zázemí
+C4.1NP.147,147-kancelář
+C4.1NP.148,148-kancelář
+C4.1NP.148A,148A-sociální zázemí
+C4.1NP.149,149-kancelář
+C4.1NP.150,150-sklad
+C4.1NP.151,151-kancelář
+C4.1NP.152,152-sklad
+C4.1NP.153,153-kancelář
+C4.1NP.154,154-sociální zázemí
+C4.1NP.155,155-kancelář
+C4.1NP.156,156-sociální zázemí
+C4.1NP.157,157-kancelář
+C4.1NP.158,158-sklad
+C4.1NP.159,159-kancelář
+C4.1NP.160,160-schody
+C4.1NP.161,161-kancelář
+C4.1PP.001,001-chodba
+C4.1PP.002,002-sklad
+C4.1PP.003,003-výrobní prostory
+C4.1PP.004,004-výrobní prostory
+C4.1PP.005,005-výrobní prostory
+C4.1PP.006,006-výrobní prostory
+C4.1PP.007,007-WC
+C4.1PP.008,008-chodba
+C4.1PP.009,009-kancelář
+C4.1PP.010,010-sklad
+C4.1PP.011,011-schody
+C4.1PP.012,012-chodba
+C4.1PP.012A,012A-sklad
+C4.1PP.013,013-chodba
+C4.1PP.014,014-výrobní prostory
+C4.1PP.015,015-sociální zázemí
+C4.1PP.016,016-WC
+C4.1PP.017,017-výrobní prostory
+C4.1PP.018,018-sklad
+C4.1PP.019,019-sklad
+C4.1PP.020,020-sklad
+C4.1PP.021,021-sklad
+C4.1PP.022,022-sklad
+C4.1PP.023,023-schody
+C4.1PP.024,024-chodba
+C4.1PP.024A,024A-sklad
+C4.1PP.025,025-výtah
+C4.1PP.026,026-sklad
+C4.2NP.201,201-chodba
+C4.2NP.202,202-chodba
+C4.2NP.203,203-schody
+C4.2NP.204,204-výtah
+C4.2NP.205,205-kancelář
+C4.2NP.206,206-kancelář
+C4.2NP.207,207-kancelář
+C4.2NP.208,208-WC
+C4.2NP.209,209-WC
+C4.2NP.210,210-úklid
+C4.2NP.211,211-WC
+C4.2NP.212,212-WC
+C4.2NP.213,213-WC
+C4.2NP.214,214-kancelář
+C4.2NP.215,215-kancelář
+C4.2NP.216,216-výrobní prostory
+C4.2NP.217,217-kancelář
+C4.2NP.217A,217A-sociální zázemí
+C4.2NP.218,218-kancelář
+C4.2NP.220,220-kancelář
+C4.2NP.222,222-kancelář
+C4.2NP.223,223-sociální zázemí
+C4.2NP.224,224-kancelář
+C4.2NP.225,225-kancelář
+C4.2NP.225A,225A-sociální zázemí
+C4.2NP.226,226-kancelář
+C4.2NP.227,227-sklad
+C4.2NP.228,228-kancelář
+C4.2NP.230,230-kancelář
+C4.2NP.231,231-kancelář
+C4.2NP.231A,231A-sociální zázemí
+C4.2NP.232,232-kancelář
+C4.2NP.233,233-sklad
+C4.2NP.237,237-schody
+C4.2NP.238,238-balkon
+C4.3NP.301,301-chodba
+C4.3NP.302,302-chodba
+C4.3NP.303,303-schody
+C4.3NP.304,304-výtah
+C4.3NP.305,305-kancelář
+C4.3NP.306,306-kancelář
+C4.3NP.307,307-kancelář
+C4.3NP.308,308-WC
+C4.3NP.309,309-WC
+C4.3NP.310,310-úklid
+C4.3NP.311,311-WC
+C4.3NP.312,312-WC
+C4.3NP.313,313-WC
+C4.3NP.314,314-kancelář
+C4.3NP.315,315-sociální zázemí
+C4.3NP.316,316-kancelář
+C4.3NP.317,317-sklad
+C4.3NP.318,318-kancelář
+C4.3NP.319,319-kancelář
+C4.3NP.319A,319A-sociální zázemí
+C4.3NP.319B,319B-sociální zázemí
+C4.3NP.320,320-kancelář
+C4.3NP.321,321-kancelář
+C4.3NP.323,323-sklad
+C4.3NP.324,324-kancelář
+C4.3NP.325,325-chodba
+C4.3NP.325A,325A-sociální zázemí
+C4.3NP.326,326-kancelář
+C4.3NP.327,327-chodba
+C4.3NP.327A,327A-sociální zázemí
+C4.3NP.328,328-kancelář
+C4.3NP.329,329-sklad
+C4.3NP.330,330-kancelář
+C4.3NP.331,331-kancelář
+C4.3NP.333,333-sociální zázemí
+C4.3NP.334,334-kancelář
+C4.3NP.336,336-kancelář
+C4.3NP.337,337-sklad
+C4.3NP.338,338-kancelář
+C4.3NP.339,339-schody
+C4.3NP.340,340-balkon
+C5.1NP.101,101-sklad
+C5.1NP.102,102-sklad
+C5.1NP.103,103-výrobní prostory
+C5.1NP.104,104-WC
+C5.1NP.105,105-WC
+C8.1MP.301,301-výrobní prostory
+C8.1MP.302,302-výrobní prostory
+C8.1NP.101,101-ateliér
+C8.1NP.102,102-výrobní prostory
+C8.1NP.103,103-výrobní prostory
+C8.1NP.104,104-výrobní prostory
+C8.1NP.105,105-chodba
+C8.1NP.106,106-chodba
+C8.1NP.107,107-výrobní prostory
+C8.1NP.108,108-chodba
+C8.1NP.109,109-chodba
+C8.1NP.110,110-sklad
+C8.1NP.111,111-chodba
+C8.1NP.112,112-WC
+C8.1NP.113,113-WC
+C8.1NP.114,114-ateliér
+C8.1NP.115,115-výrobní prostory
+C8.1NP.116,116-chodba
+C8.1NP.117,117-chodba
+C8.1NP.118,118-výrobní prostory
+C8.1NP.119,119-chodba
+C8.1NP.120,120-výrobní prostory
+C8.1NP.121,121-chodba
+C8.1NP.121A,121A-chodba
+C8.1NP.122,122-WC
+C8.1NP.123,123-WC
+C8.1NP.124,124-chodba
+C8.1NP.125,125-ateliér
+C8.1NP.126,126-chodba
+C8.1NP.127,127-chodba
+C8.1NP.128,128-výrobní prostory
+C8.1NP.129,129-chodba
+C8.1NP.130,130-chodba
+C8.1NP.131,131-chodba
+C8.1NP.131A,131A-chodba
+C8.1NP.132,132-WC
+C8.1NP.133,133-WC
+C8.1NP.134,134-úklid
+C8.1NP.135,135-sklad
+C8.1NP.136,136-sklad
+C8.1NP.137,137-výrobní prostory
+C8.1NP.138,138-výrobní prostory
+C8.1NP.140,140-sklad
+C8.1NP.141,141-výrobní prostory
+C8.1NP.142,142-výrobní prostory
+C8.1NP.143,143-výrobní prostory
+C8.1NP.144,144-výrobní prostory
+C8.2MP.801,801-výrobní prostory
+C8.2MP.802,802-výrobní prostory
+C8.2MP.803,803-výrobní prostory
+C8.2MP.804,804-sklad
+C8.2MP.805,805-výrobní prostory
+C8.2MP.806,806-výrobní prostory
+C8.2NP.601,601-sklad
+C8.2NP.602,602-sklad
+C8.2NP.603,603-sklad
+C8.2NP.604,604-sklad
+C8.2NP.605,605-sklad
+C8.2NP.606,606-sklad
+C8.2NP.607,607-výrobní prostory
+C8.3NP.1201,1201-chodba
+C8.3NP.1202,1202-sklad
+C8.3NP.1203,1203-chodba
+C8.3NP.1204,1204-chodba
+C8.3NP.1205,1205-chodba
+C8.3NP.1206,1206-sklad
+C8.3NP.1207,1207-chodba
+C8.3NP.1208,1208-výrobní prostory
+C8.3NP.1209,1209-chodba
+C8.3NP.1210,1210-sklad
+C8.3NP.1211,1211-chodba
+C8.3NP.1212,1212-chodba
+C8.3NP.1213,1213-výrobní prostory
+C8.3NP.1215,1215-výrobní prostory
+C9.1NP.101,101-sklad
+C9.1NP.102,102-sklad
+C9.1NP.103,103-WC
+C9.1NP.104,104-WC
+C9.1NP.105,105-WC
+C9.1NP.106,106-WC
+C9.1NP.107,107-úklid
+C9.2NP.201,201-schody
+C9.2NP.202,202-sklad
+CD.1NP.101,101-schody
+CD.1NP.102,102-chodba
+CD.1NP.103,103-kancelář
+CD.1NP.104,104-sklad
+CD.1NP.105,105-kancelář
+CD.1NP.106,106-sklad
+CD.1NP.107,107-WC
+CD.1NP.108,108-WC
+CD.1NP.109,109-WC
+CD.2NP.201,201-chodba
+CD.2NP.202,202-kancelář
+CD.2NP.203,203-sklad
+CD.2NP.204,204-sklad
+CD.2NP.205,205-WC
+CD.2NP.206,206-umývárna
+CD.2NP.207,207-umývárna
+CD.2NP.208,208-WC
+CD.2NP.209,209-šatna
+CD.2NP.210,210-kuchyňka
+CD.2NP.211,211-sklad
+CD.2NP.212,212-sklad
+CH.1NP.101,101-sklad
+DA.1NP.101,101-sklad
+DE.1NP.101,101-chodba
+DE.1NP.101A,101A-chodba
+DE.1NP.102,102-kancelář
+DE.1NP.103,103-kancelář
+DE.1NP.104,104-kancelář
+DE.1NP.105,105-kancelář
+DE.1NP.106,106-kancelář
+DE.1NP.107,107-sklad
+DE.1NP.108,108-sklad
+DE.1NP.109,109-kancelář
+DE.1NP.110,110-kancelář
+DE.1NP.111,111-chodba
+DE.1NP.112,112-sociální zázemí
+DE.1NP.112A,112A-výrobní prostory
+DE.1NP.113,113-WC
+DE.1NP.113A,113A-sociální zázemí
+DE.1NP.114,114-sociální zázemí
+DE.1NP.115,115-kancelář
+DE.1NP.117,117-kancelář
+DF.1NP.101,101-chodba
+DF.1NP.102,102-výrobní prostory
+DF.1NP.103,103-výrobní prostory
+DF.1NP.104,104-WC
+DF.1NP.105,105-WC
+DF.1NP.106,106-sociální zázemí
+DF.1NP.107,107-sklad
+DF.1NP.108,108-sklad
+DF.1NP.109,109-sociální zázemí
+DF.1NP.110,110-sklad
+DF.1NP.111,111-sklad
+DF.1NP.112,112-sklad
+DF.1NP.113,113-sklad
+DF.1NP.114,114-sklad
+DF.1NP.115,115-sklad
+DF.1NP.117,117-sklad
+DF.1NP.118,118-sklad
+DF.1NP.120,120-sklad
+DF.1NP.121,121-sklad
+DF.1NP.122,122-sklad
+DF.1NP.123,123-sklad
+DF.1NP.124,124-sklad
+DF.1NP.125,125-sklad
+DF.1NP.126,126-sklad
+DF.1NP.127,127-sklad
+DF.1NP.128,128-sklad
+DF.1NP.129,129-sklad
+DF.1NP.130,130-sklad
+DF.1NP.131,131-sklad
+DF.1NP.133,133-sklad
+DF.1NP.134,134-sklad
+DF.1NP.135,135-sklad
+DF.1NP.136,136-sklad
+DF.1NP.136A,136A-sklad
+DF.1NP.137,137-sklad
+DF.1NP.137A,137A-chodba
+DF.1NP.137B,137B-sklad
+DF.1NP.137C,137C-chodba
+DF.1NP.137D,137D-sklad
+DF.1NP.137E,137E-sklad
+DF.1NP.138,138-sklad
+DF.1NP.139,139-sklad
+DF.1NP.140,140-sklad
+DF.1NP.141,141-sklad
+DF.1NP.142,142-chodba
+DF.1NP.143,143-dílna
+DF.1NP.144,144-dílna
+DF.1NP.144A,144A-kancelář
+DF.1NP.145,145-kancelář
+DF.1NP.146,146-kancelář
+DF.1NP.147,147-sociální zázemí
+DF.1NP.148,148-WC
+DF.1NP.149,149-kancelář
+DF.1NP.150,150-sklad
+DF.1NP.151,151-chodba
+DF.1NP.152,152-dílna
+DF.1NP.153,153-chodba
+DF.1NP.154,154-WC
+DF.1NP.155,155-sociální zázemí
+DG.1NP.001,001-WC
+DG.1NP.002,002-sprchy
+DG.1NP.003,003-kancelář
+DG.1NP.004,004-sklad
+DG.1NP.005,005-dílna
+DH.1NP.101,101 - sklad
+EF.1NP.101,101-sklad
+EF.1NP.102,102-výrobní prostory
+EF.1NP.103,103-sklad
+EF.1NP.104,104-sklad
+EF.1NP.105,105-sklad
+EF.1NP.106,106-sklad
+EG.1NP.101,101-sklad
+EG.1NP.102,102-sklad
+EH.1NP.101,101-sklad
+F1.1MP.M01,M01-schody
+F1.1MP.M02,M02-výrobní prostory
+F1.1MP.M03,M03-výrobní prostory
+F1.1MP.M04,M04-sklad
+F1.1MP.M05,M05-chodba
+F1.1MP.M06,M06-sklad
+F1.1MP.M07,M07-sklad
+F1.1MP.M08,M08-sklad
+F1.1MP.M09,M09-výrobní prostory
+F1.1MP.M10,M10-schody
+F1.1MP.M11,M11-sklad
+F1.1MP.M12,M12-výrobní prostory
+F1.1MP.M13,M13-sklad
+F1.1MP.M14,M14-chodba
+F1.1MP.M15,M15-chodba
+F1.1MP.M16,M16-schody
+F1.1MP.M17,M17-kancelář
+F1.1MP.M17A,M17A-WC
+F1.1MP.M19,M19-sklad
+F1.1MP.M20,M20-výrobní prostory
+F1.1MP.M21,M21-výrobní prostory
+F1.1MP.M22,M22-výrobní prostory
+F1.1MP.M23,M23-výrobní prostory
+F1.1MP.M24,M24-sklad
+F1.1MP.M25,M25-výrobní prostory
+F1.1MP.M26,M26-výrobní prostory
+F1.1MP.M27,M27-výrobní prostory
+F1.1MP.M28,M28-výrobní prostory
+F1.1MP.M29,M29-sklad
+F1.1MP.M30,M30-sklad
+F1.1NP.200,200-kancelář
+F1.1NP.201,201-kancelář
+F1.1NP.202,202-sklad
+F1.1NP.203,203-WC
+F1.1NP.205,205-WC
+F1.1NP.207,207-kancelář
+F1.1NP.207A,207A-sociální zázemí
+F1.1NP.208,208-kancelář
+F1.1NP.209,209-kancelář
+F1.1NP.210,210-kancelář
+F1.1NP.211,211-kancelář
+F1.1NP.212,212-kancelář
+F1.1NP.213,213-kancelář
+F1.1NP.214,214-sklad
+F1.1NP.215,215-WC
+F1.1NP.217,217-WC
+F1.1NP.219,219-kancelář
+F1.1NP.220,220-kancelář
+F1.1NP.221,221-chodba
+F1.1NP.222,222-chodba
+F1.1NP.223,223-kancelář
+F1.1NP.224,224-projekce
+F1.1NP.225,225-kancelář
+F1.1NP.226,226-dílna
+F1.1NP.227,227-výrobní prostory
+F1.1NP.228,228-dílna
+F1.1NP.229,229-dílna
+F1.1NP.230,230-výrobní prostory
+F1.1NP.231,231-dílna
+F1.1NP.232,232-chodba
+F1.1NP.233,233-WC
+F1.1NP.234,234-dílna
+F1.1NP.235,235-výrobní prostory
+F1.1NP.236,236-kancelář
+F1.1NP.237,237-sociální zázemí
+F1.1NP.238,238-WC
+F1.1NP.239,239-sociální zázemí
+F1.1NP.240,240-kancelář
+F1.1NP.241,241-sociální zázemí
+F1.1NP.242,242-kancelář
+F1.1NP.243,243-sociální zázemí
+F1.1NP.244,244-kancelář
+F1.1NP.245,245-sociální zázemí
+F1.1NP.246,246-kancelář
+F1.1NP.247,247-sociální zázemí
+F1.1NP.248,248-kancelář
+F1.1NP.249,249-kancelář
+F1.1NP.251,251-kancelář
+F1.1NP.252,252-kancelář
+F1.1NP.253,253-kancelář
+F1.1NP.253A,253A-sociální zázemí
+F1.1NP.254,254-kancelář
+F1.1NP.254A,254A-sociální zázemí
+F1.1NP.255,255-kancelář
+F1.1NP.256,256-kancelář
+F1.1NP.257,257-kancelář
+F1.1NP.259,259-kancelář
+F1.1NP.260,260-sociální zázemí
+F1.1NP.261,261-sklad
+F1.1NP.262,262-WC
+F1.1NP.264,264-WC
+F1.1NP.266,266-sociální zázemí
+F1.1NP.268,268-výrobní prostory
+F1.1NP.269,269-kancelář
+F1.1NP.270,270-kancelář
+F1.1NP.271,271-kancelář
+F1.1NP.272,272-kancelář
+F1.1NP.273,273-sociální zázemí
+F1.1NP.274,274-kancelář
+F1.1NP.275,275-sklad
+F1.1NP.276,276-kancelář
+F1.1NP.277,277-kancelář
+F1.1NP.277A,277A-sociální zázemí
+F1.1NP.279,279-WC
+F1.1NP.280,280-WC
+F1.1NP.282,282-kancelář
+F1.1NP.284,284-sociální zázemí
+F1.1NP.286,286-kancelář
+F1.1NP.287,287-kancelář
+F1.1NP.288,288-kancelář
+F1.1NP.289,289-sociální zázemí
+F1.1NP.290,290-kancelář
+F1.1NP.291,291-kancelář
+F1.1NP.2A,2A-schody
+F1.1NP.2A1,2A1-wc
+F1.1NP.2A2,2A2-schody
+F1.1NP.2A3,2A3-výrobní prostory
+F1.1NP.2A4,2A4-výrobní prostory
+F1.1NP.2A5,2A5-výrobní prostory
+F1.1NP.2A6,2A6-schody
+F1.1NP.2A7,2A7-wc
+F1.1NP.2B,2B-schody
+F1.1NP.2B1,2B1-wc
+F1.1NP.2B2,2B2-schody
+F1.1NP.2B3,2B3-výrobní prostory
+F1.1NP.2B4,2B4-výrobní prostory
+F1.1NP.2B5,2B5-výrobní prostory
+F1.1NP.2B6,2B6-schody
+F1.1NP.2B7,2B7-wc
+F1.1NP.2C,2C-chodba
+F1.1NP.2D,2D-chodba
+F1.1NP.2E,2E-schody
+F1.1NP.2F,2F-chodba
+F1.1NP.2G,2G-schody
+F1.1NP.2H,2H-chodba
+F1.1NP.2J,2J-chodba
+F1.1NP.2K,2K-schody
+F1.1NP.2L,2L-chodba
+F1.1NP.2M,2M-chodba
+F1.1NP.2N,2N-schody
+F1.1NP.2O,2O-chodba
+F1.1NP.2P,2P-chodba
+F1.1NP.2Q,2Q-chodba
+F1.1NP.2R,2R-schody
+F1.1NP.2S,2S-chodba
+F1.1NP.2T,2T-chodba
+F1.1NP.2V,2V-schody
+F1.1NP.AT5,AT5-ateliér
+F1.1NP.AT6,AT6-ateliér
+F1.1NP.AT7,AT7-ateliér
+F1.1PP.100,100-kancelář
+F1.1PP.101,101-kancelář
+F1.1PP.102,102-kancelář
+F1.1PP.103,103-chodba
+F1.1PP.104,104-schody
+F1.1PP.105,105-chodba
+F1.1PP.106,106-kancelář
+F1.1PP.107,107-kancelář
+F1.1PP.108,108-kancelář
+F1.1PP.109,109-kancelář
+F1.1PP.111,111-kancelář
+F1.1PP.113,113-kancelář
+F1.1PP.114,114-kancelář
+F1.1PP.115,115-kancelář
+F1.1PP.116,116-chodba
+F1.1PP.117,117-schody
+F1.1PP.118,118-chodba
+F1.1PP.119,119-kancelář
+F1.1PP.121,121-WC
+F1.1PP.122,122-WC
+F1.1PP.123,123-WC
+F1.1PP.124,124-WC
+F1.1PP.125,125-chodba
+F1.1PP.126,126-sklad
+F1.1PP.127,127-sklad
+F1.1PP.128,128-sklad
+F1.1PP.129,129-sklad
+F1.1PP.130,130-sklad
+F1.1PP.131,131-výrobní prostory
+F1.1PP.132,132-výrobní prostory
+F1.1PP.133,133-chodba
+F1.1PP.134,134-chodba
+F1.1PP.135,135-schody
+F1.1PP.136,136-výrobní prostory
+F1.1PP.137,137-WC
+F1.1PP.138,138-WC
+F1.1PP.139,139-WC
+F1.1PP.140,140-WC
+F1.1PP.141,141-WC
+F1.1PP.142,142-kancelář
+F1.1PP.143,143-kancelář
+F1.1PP.144,144-kancelář
+F1.1PP.145,145-kancelář
+F1.1PP.146,146-schody
+F1.1PP.147,147-chodba
+F1.1PP.148,148-kancelář
+F1.1PP.149,149-schody
+F1.1PP.150,150-sklad
+F1.1PP.151,151-výrobní prostory
+F1.1PP.152,152-výrobní prostory
+F1.1PP.153,153-výrobní prostory
+F1.1PP.154,154-výrobní prostory
+F1.1PP.155,155-výrobní prostory
+F1.1PP.156,156-výrobní prostory
+F1.1PP.157,157-výrobní prostory
+F1.1PP.158,158-výrobní prostory
+F1.1PP.159,159-výrobní prostory
+F1.1PP.160,160-výrobní prostory
+F1.1PP.161,161-výrobní prostory
+F1.1PP.162,162-výrobní prostory
+F1.1PP.163,163-výrobní prostory
+F1.1PP.164,164-výrobní prostory
+F1.1PP.1A1,1A1-chodba
+F1.1PP.1A2,1A2-chodba
+F1.1PP.1A3,1A3-výrobní prostory
+F1.1PP.1A3A,1A3A-sklad
+F1.1PP.1A4,1A4-výrobní prostory
+F1.1PP.1A5,1A5-sklad
+F1.1PP.1A6,1A6-sklad
+F1.1PP.1A7,1A7-sklad
+F1.1PP.1A8,1A8-chodba
+F1.1PP.1A9,1A9-sklad
+F1.1PP.1B1,1B1-chodba
+F1.1PP.1B2,1B2-sklad
+F1.1PP.1B3,1B3-WC
+F1.1PP.1B4,1B4-WC
+F1.1PP.1B5,1B5-výrobní prostory
+F1.1PP.1B6,1B6-chodba
+F1.1PP.1B7,1B7-chodba
+F1.1PP.1B8,1B8-sklad
+F1.1PP.1B9,1B9-sklad
+F1.1PP.1C1,1C1-schody
+F1.1PP.1C2,1C2-sklad
+F1.1PP.1C3,1C3-výrobní prostory
+F1.1PP.1C4,1C4-výrobní prostory
+F1.1PP.1C5,1C5-výrobní prostory
+F1.1PP.1C6,1C6-chodba
+F1.1PP.1C7,1C7-výrobní prostory
+F1.1PP.1C8,1C8-výrobní prostory
+F1.1PP.1C9,1C9-schody
+F1.1PP.1D1,1D1-sklad
+F1.1PP.1D2,1D2-chodba
+F1.1PP.1D3,1D3-výrobní prostory
+F1.1PP.1D4,1D4-výrobní prostory
+F1.1PP.1D5,1D5-výrobní prostory
+F1.1PP.1D6,1D6-výrobní prostory
+F1.1PP.1D7,1D7-výrobní prostory
+F1.1PP.1D8,1D8-výrobní prostory
+F1.1PP.1D9,1D9-sklad
+F1.1PP.1E1,1E1-schody
+F1.1PP.1E2,1E2-chodba
+F1.1PP.1E3,1E3-výrobní prostory
+F1.1PP.1E4,1E4-výrobní prostory
+F1.1PP.1E5,1E5-výrobní prostory
+F1.1PP.1E6,1E6-výrobní prostory
+F1.1PP.1E7,1E7-výrobní prostory
+F1.1PP.1E8,1E8-dozorna
+F1.1PP.1E9,1E9-denní místnost
+F1.1PP.1F1,1F1-sklad
+F1.1PP.1F2,1F2-chodba
+F1.1PP.1F3,1F3-schody
+F1.1PP.1F4,1F4-sociální zázemí
+F1.1PP.1F5,1F5-sociální zázemí
+F1.1PP.1F6,1F6-WC
+F1.1PP.1F7,1F7-sprchy
+F1.1PP.1F8,1F8-sklad
+F1.1PP.1F9,1F9-chodba
+F1.1PP.1G1,1G1-sklad
+F1.1PP.1G2,1G2-sklad
+F1.1PP.1H8,1H8-sklad
+F1.1PP.1H9,1H9-sklad
+F1.1PP.1J6,1J6-sklad
+F1.1PP.1J7,1J7-výrobní prostory
+F1.1PP.1J8,1J8-výrobní prostory
+F1.1PP.1J9,1J9-sklad
+F1.1PP.1K1,1K1-chodba
+F1.1PP.1K2,1K2-výrobní prostory
+F1.1PP.1K3,1K3-výrobní prostory
+F1.1PP.1K4,1K4-výrobní prostory
+F1.1PP.1K4A,1K4A-výrobní prostory
+F1.1PP.1K5,1K5-výrobní prostory
+F1.1PP.1K5A,1K5A-výrobní prostory
+F1.1PP.1K6,1K6-výrobní prostory
+F1.1PP.1K7,1K7-výrobní prostory
+F1.1PP.1K8,1K8-výrobní prostory
+F1.1PP.1K9,1K9-sklad
+F1.1PP.1L1,1L1-chodba
+F1.1PP.1L2,1L2-výrobní prostory
+F1.1PP.1L3,1L3-výrobní prostory
+F1.1PP.1L4,1L4-výrobní prostory
+F1.1PP.1L5,1L5-výrobní prostory
+F1.1PP.1L5A,1L5A-výrobní prostory
+F1.1PP.1L6,1L6-výrobní prostory
+F1.1PP.1L7,1L7-sklad
+F1.1PP.1L8,1L8-chodba
+F1.1PP.1L9,1L9-chodba
+F1.1PP.K1,K1-výrobní prostory
+F1.1PP.K2,K2-výrobní prostory
+F1.2NP.300,300-kancelář
+F1.2NP.301,301-kancelář
+F1.2NP.302,302-kancelář
+F1.2NP.303,303-WC
+F1.2NP.305,305-WC
+F1.2NP.307,307-kancelář
+F1.2NP.308,308-kancelář
+F1.2NP.309,309-kancelář
+F1.2NP.310,310-kancelář
+F1.2NP.311,311-kancelář
+F1.2NP.312,312-kancelář
+F1.2NP.313,313-kancelář
+F1.2NP.314,314-kancelář
+F1.2NP.315,315-kancelář
+F1.2NP.316,316-sociální zázemí
+F1.2NP.317,317-kancelář
+F1.2NP.318,318-kancelář
+F1.2NP.319,319-kancelář
+F1.2NP.320,320-kancelář
+F1.2NP.321,321-kancelář
+F1.2NP.322,322-WC
+F1.2NP.324,324-sociální zázemí
+F1.2NP.325,325-kancelář
+F1.2NP.326,326-kancelář
+F1.2NP.327,327-kancelář
+F1.2NP.328,328-kancelář
+F1.2NP.329,329-sociální zázemí
+F1.2NP.330,330-kancelář
+F1.2NP.330A,330A-sociální zázemí
+F1.2NP.332,332-kancelář
+F1.2NP.333,333-kancelář
+F1.2NP.334,334-kancelář
+F1.2NP.335,335-kancelář
+F1.2NP.336,336-kancelář
+F1.2NP.337,337-kancelář
+F1.2NP.338,338-kancelář
+F1.2NP.339,339-kancelář
+F1.2NP.340,340-kancelář
+F1.2NP.342,342-kancelář
+F1.2NP.344,344-kancelář
+F1.2NP.345,345-WC
+F1.2NP.346,346-WC
+F1.2NP.347,347-výrobní prostory
+F1.2NP.348,348-kancelář
+F1.2NP.349,349-kancelář
+F1.2NP.350,350-kancelář
+F1.2NP.351,351-kancelář
+F1.2NP.352,352-WC
+F1.2NP.353,353-WC
+F1.2NP.354,354-kancelář
+F1.2NP.355,355-kancelář
+F1.2NP.356,356-schody
+F1.2NP.357,357-kancelář
+F1.2NP.358,358-kancelář
+F1.2NP.359,359-kancelář
+F1.2NP.360,360-WC
+F1.2NP.360A,360A-kancelář
+F1.2NP.361,361-kancelář
+F1.2NP.361B,361B-kancelář
+F1.2NP.362,362-kancelář
+F1.2NP.363,363-kancelář
+F1.2NP.364,364-kancelář
+F1.2NP.364A,364A-sociální zázemí
+F1.2NP.365,365-kancelář
+F1.2NP.366,366-kancelář
+F1.2NP.367,367-kancelář
+F1.2NP.368,368-kancelář
+F1.2NP.369,369-kancelář
+F1.2NP.370,370-kancelář
+F1.2NP.371,371-kancelář
+F1.2NP.371A,371A-sociální zázemí
+F1.2NP.3A1,3A1-wc
+F1.2NP.3A2,3A2-wc
+F1.2NP.3A3,3A3-schody
+F1.2NP.3A4,3A4-výrobní prostory
+F1.2NP.3A5,3A5-výrobní prostory
+F1.2NP.3A6,3A6-výrobní prostory
+F1.2NP.3A7,3A7-výrobní prostory
+F1.2NP.3A8,3A8-výrobní prostory
+F1.2NP.3A9,3A9-schody
+F1.2NP.3B1,3B1-WC
+F1.2NP.3B2,3B2-WC
+F1.2NP.3C1,3C1-WC
+F1.2NP.3C2,3C2-WC
+F1.2NP.3C3,3C3-schody
+F1.2NP.3C4,3C4-výrobní prostory
+F1.2NP.3C5,3C5-výrobní prostory
+F1.2NP.3C6,3C6-výrobní prostory
+F1.2NP.3C7,3C7-výrobní prostory
+F1.2NP.3C8,3C8-výrobní prostory
+F1.2NP.3C9,3C9-schody
+F1.2NP.3D1,3D1-WC
+F1.2NP.3D2,3D2-WC
+F1.2NP.3E1,3E1-schody
+F1.2NP.3E2,3E2-chodba
+F1.2NP.3E3,3E3-chodba
+F1.2NP.3E4,3E4-chodba
+F1.2NP.3E5,3E5-schody
+F1.2NP.3E6,3E6-chodba
+F1.2NP.3E7,3E7-schody
+F1.2NP.3E8,3E8-chodba
+F1.2NP.3F1,3F1-schody
+F1.2NP.3F2,3F2-chodba
+F1.2NP.3F3,3F3-chodba
+F1.2NP.3F4,3F4-chodba
+F1.2NP.3F5,3F5-schody
+F1.2NP.3F6,3F6-chodba
+F1.2NP.3F7,3F7-chodba
+F1.2NP.3F8,3F8-schody
+F1.2NP.3F9,3F9-chodba
+F1.2NP.3G1,3G1-výrobní prostory
+F1.2NP.3G2,3G2-výrobní prostory
+F1.2NP.3G3,3G3-výrobní prostory
+F1.2PP.001,001-sklad
+F1.2PP.002,002-schody
+F1.2PP.003,003-chodba
+F1.2PP.004,004-sklad
+F1.2PP.005,005-výrobní prostory
+F1.2PP.007,007-výrobní prostory
+F1.2PP.008,008-kancelář
+F1.2PP.010,010-chodba
+F1.2PP.011,011-výrobní prostory
+F1.2PP.012,012-výrobní prostory
+F1.2PP.013,013-výrobní prostory
+F1.2PP.014,014-výrobní prostory
+F1.2PP.015,015-sklad
+F1.2PP.016,016-kancelář
+F1.2PP.017,017-sociální zázemí
+F1.2PP.018,018-kancelář
+F1.2PP.019,019-sklad
+F1.2PP.019A,019A-úklid
+F1.2PP.021,021-sklad
+F1.2PP.022,022-sklad
+F1.2PP.023,023-chodba
+F1.2PP.024,024-schody
+F1.2PP.025,025-chodba
+F1.2PP.026,026-kancelář
+F1.2PP.027,027-WC
+F1.2PP.029,029-kancelář
+F1.2PP.031,031-kancelář
+F1.2PP.032,032-kancelář
+F1.2PP.033,033-kancelář
+F1.2PP.035,035-kancelář
+F1.2PP.036,036-sklad
+F1.2PP.039,039-sklad
+F1.2PP.040,040-chodba
+F1.2PP.041,041-schody
+F1.2PP.041A,041A-výrobní prostory
+F1.2PP.041B,041B-sklad
+F1.2PP.041C,041C-sklad
+F1.2PP.042,042-chodba
+F1.2PP.043,043-výrobní prostory
+F1.2PP.045,045-WC
+F1.2PP.047,047-WC
+F1.2PP.048,048-kancelář
+F1.2PP.050,050-kancelář
+F1.2PP.052,052-kancelář
+F1.2PP.054,054-chodba
+F1.2PP.055,055-schody
+F1.2PP.056,056-sklad
+F1.2PP.057,057-chodba
+F1.2PP.058,058-chodba
+F1.2PP.059,059-výrobní prostory
+F1.2PP.060,060-výrobní prostory
+F1.2PP.061,061-výrobní prostory
+F1.2PP.062,062-výrobní prostory
+F1.2PP.063,063-výrobní prostory
+F1.2PP.0A1,0A1-chodba
+F1.2PP.0A2,0A2-sklad
+F1.2PP.0A3,0A3-chodba
+F1.2PP.0A4,0A4-sklad
+F1.2PP.0A5,0A5-sklad
+F1.2PP.0A7,0A7-WC
+F1.2PP.0A9,0A9-dílna
+F1.2PP.0B1,0B1-sklad
+F1.2PP.0B2,0B2-chodba
+F1.2PP.0B4,0B4-sklad
+F1.2PP.0B5,0B5-sklad
+F1.2PP.0B6,0B6-sklad
+F1.2PP.0B7,0B7-WC
+F1.2PP.0B8,0B8-WC
+F1.2PP.0B9,0B9-WC
+F1.2PP.0C1,0C1-chodba
+F1.2PP.0C2,0C2-chodba
+F1.2PP.0C3,0C3-sklad
+F1.2PP.0C4,0C4-chodba
+F1.2PP.0C5,0C5-sklad
+F1.2PP.0C6,0C6-chodba
+F1.2PP.0C7,0C7-sklad
+F1.2PP.0C8,0C8-schody
+F1.2PP.0C9,0C9-chodba
+F1.2PP.0D1,0D1-chodba
+F1.2PP.0D2,0D2-chodba
+F1.2PP.0D3,0D3-sklad
+F1.2PP.0D4,0D4-chodba
+F1.2PP.0D5,0D5-WC
+F1.2PP.0D6,0D6-chodba
+F1.2PP.0D7,0D7-chodba
+F1.2PP.0D8,0D8-sklad
+F1.2PP.0D9,0D9-sklad
+F1.2PP.0E1,0E1-chodba
+F1.2PP.0E2,0E2-sklad
+F1.2PP.0E3,0E3-výrobní prostory
+F1.2PP.0E4,0E4-výrobní prostory
+F1.2PP.0E5,0E5-výrobní prostory
+F1.2PP.0E6,0E6-výrobní prostory
+F1.2PP.0E7,0E7-výrobní prostory
+F1.2PP.0E8,0E8-výrobní prostory
+F1.2PP.0F1,0F1-výrobní prostory
+F1.2PP.0F2,0F2-výrobní prostory
+F1.2PP.0F3,0F3-výrobní prostory
+F1.2PP.0F4,0F4-výrobní prostory
+F1.2PP.0F5,0F5-sklad
+F1.2PP.0F6,0F6-sklad
+F1.2PP.0F7,0F7-výrobní prostory
+F1.2PP.0F8,0F8-sklad
+F1.2PP.0F9,0F9-výrobní prostory
+F1.3NP.400,400-kancelář
+F1.3NP.401,401-kancelář
+F1.3NP.402,402-sklad
+F1.3NP.403,403-WC
+F1.3NP.405,405-WC
+F1.3NP.407,407-kancelář
+F1.3NP.408,408-kancelář
+F1.3NP.410,410-kancelář
+F1.3NP.411,411-kancelář
+F1.3NP.413,413-kancelář
+F1.3NP.414,414-kancelář
+F1.3NP.415,415-kancelář
+F1.3NP.416,416-kancelář
+F1.3NP.418,418-kancelář
+F1.3NP.419,419-kancelář
+F1.3NP.420,420-kancelář
+F1.3NP.421,421-kancelář
+F1.3NP.422,422-kancelář
+F1.3NP.423,423-kancelář
+F1.3NP.424,424-kancelář
+F1.3NP.425,425-výrobní prostory
+F1.3NP.426,426-kancelář
+F1.3NP.427,427-kancelář
+F1.3NP.428,428-kancelář
+F1.3NP.429,429-kancelář
+F1.3NP.430,430-kancelář
+F1.3NP.431,431-kancelář
+F1.3NP.432,432-kancelář
+F1.3NP.433,433-kancelář
+F1.3NP.434,434-výrobní prostory
+F1.3NP.435,435-kancelář
+F1.3NP.436,436-kancelář
+F1.3NP.437,437-kancelář
+F1.3NP.438,438-kancelář
+F1.3NP.439,439-kancelář
+F1.3NP.440,440-kancelář
+F1.3NP.441,441-kancelář
+F1.3NP.442,442-kancelář
+F1.3NP.443,443-kancelář
+F1.3NP.444,444-kancelář
+F1.3NP.445,445-výrobní prostory
+F1.3NP.446A,446A-kancelář
+F1.3NP.446B,446B-kancelář
+F1.3NP.446C,446C-kancelář
+F1.3NP.446D,446D-kancelář
+F1.3NP.446E,446E-kancelář
+F1.3NP.447,447-kancelář
+F1.3NP.448,448-kancelář
+F1.3NP.449,449-kancelář
+F1.3NP.450,450-kancelář
+F1.3NP.451,451-kancelář
+F1.3NP.452,452-kancelář
+F1.3NP.452A,452A-sklad
+F1.3NP.453,453-chodba
+F1.3NP.453A,453A-kancelář
+F1.3NP.454,454-kancelář
+F1.3NP.455,455-kancelář
+F1.3NP.456,456-kancelář
+F1.3NP.457,457-kancelář
+F1.3NP.458,458-kancelář
+F1.3NP.459,459-kancelář
+F1.3NP.460,460-kancelář
+F1.3NP.461,461-kancelář
+F1.3NP.462,462-kancelář
+F1.3NP.463,463-WC
+F1.3NP.465,465-WC
+F1.3NP.468,468-výrobní prostory
+F1.3NP.469,469-kancelář
+F1.3NP.470,470-kancelář
+F1.3NP.471,471-kancelář
+F1.3NP.472,472-kancelář
+F1.3NP.473,473-kancelář
+F1.3NP.474,474-kancelář
+F1.3NP.475,475-kancelář
+F1.3NP.476,476-kancelář
+F1.3NP.477,477-kancelář
+F1.3NP.478,478-kancelář
+F1.3NP.479,479-kancelář
+F1.3NP.480,480-kancelář
+F1.3NP.481,481-kancelář
+F1.3NP.482,482-kancelář
+F1.3NP.483,483-kancelář
+F1.3NP.484,484-kancelář
+F1.3NP.485,485-kancelář
+F1.3NP.486,486-kancelář
+F1.3NP.486A,486A-kancelář
+F1.3NP.487,487-kancelář
+F1.3NP.488,488-kancelář
+F1.3NP.489,489-kancelář
+F1.3NP.490,490-kancelář
+F1.3NP.491,491-kancelář
+F1.3NP.492,492-kancelář
+F1.3NP.493,493-kancelář
+F1.3NP.4A1,4A1-WC
+F1.3NP.4A2,4A2-WC
+F1.3NP.4A3A,4A3A-výrobní prostory
+F1.3NP.4A3B,4A3B-výrobní prostory
+F1.3NP.4A3C,4A3C-výrobní prostory
+F1.3NP.4A4,4A4-výrobní prostory
+F1.3NP.4A5,4A5-výrobní prostory
+F1.3NP.4A6,4A6-výrobní prostory
+F1.3NP.4A7,4A7-schody
+F1.3NP.4A8,4A8-WC
+F1.3NP.4A9,4A9-WC
+F1.3NP.4B1,4B1-WC
+F1.3NP.4B2,4B2-WC
+F1.3NP.4B2,4B2-WC
+F1.3NP.4B3A,4B3A-výrobní prostory
+F1.3NP.4B3B,4B3B-výrobní prostory
+F1.3NP.4B3C,4B3C-výrobní prostory
+F1.3NP.4B3D,4B3D-výrobní prostory
+F1.3NP.4B4,4B4-schody
+F1.3NP.4B5,4B5-výrobní prostory
+F1.3NP.4B6,4B6-výrobní prostory
+F1.3NP.4B7,4B7-schody
+F1.3NP.4B8,4B8-WC
+F1.3NP.4B9,4B9-WC
+F1.3NP.4C1,4C1-výrobní prostory
+F1.3NP.4C2,4C2-výrobní prostory
+F1.3NP.4C3,4C3-výrobní prostory
+F1.3NP.4D1,4D1-schody
+F1.3NP.4D10,4D10-schody
+F1.3NP.4D2,4D2-chodba
+F1.3NP.4D3,4D3-chodba
+F1.3NP.4D4,4D4-chodba
+F1.3NP.4D5,4D5-schody
+F1.3NP.4D6,4D6-chodba
+F1.3NP.4D7,4D7-chodba
+F1.3NP.4D8,4D8-schody
+F1.3NP.4D9,4D9-chodba
+F1.3NP.4E1,4E1-schody
+F1.3NP.4E2,4E2-chodba
+F1.3NP.4E3,4E3-chodba
+F1.3NP.4E4,4E4-chodba
+F1.3NP.4E5,4E5-chodba
+F1.3NP.4F1,4F1-sociální zázemí
+F1.3NP.4F2,4F2-sociální zázemí
+F1.3NP.4F3,4F3-WC
+F1.3NP.4F5,4F5-sociální zázemí
+F1.3NP.4F6,4F6-sociální zázemí
+F1.3NP.4F7,4F7-WC
+F1.3NP.4K01,4K01-sklad
+F1.3NP.4K02,4K02-sklad
+F1.3NP.4K03,4K03-sklad
+F1.3NP.4K04,4K04-sklad
+F1.3NP.4K05,4K05-sklad
+F1.3NP.4K06,4K06-sklad
+F1.3NP.4K07,4K07-sklad
+F1.3NP.4K08,4K08-sklad
+F1.3NP.4K09,4K09-sklad
+F1.3NP.4K10,4K10-sklad
+F1.3NP.4K11,4K11-sklad
+F1.3NP.4K12,4K12-sklad
+F1.3NP.4K13,4K13-sklad
+F1.3NP.4K14,4K14-sklad
+F1.3NP.4K15,4K15-sklad
+F1.3NP.4K16,4K16-sklad
+F1.3NP.4K17,4K17-sklad
+F1.3NP.4K18,4K18-sklad
+F2.1MP.M01,M01-úklid
+F2.1MP.M02,M02-WC
+F2.1MP.M03,M03-WC
+F2.1NP.100,100-chodba
+F2.1NP.101,101-chodba
+F2.1NP.102,102-schody
+F2.1NP.103,103-sklad brusírny
+F2.1NP.105,105-dílna - brusírna
+F2.1NP.106,106-kancelář mistrů truhlářů
+F2.1NP.107,107-chodba
+F2.1NP.108,108-brusírna dřeva
+F2.1NP.109,109-příruční sklad truhlářů
+F2.1NP.110,110-ruční truhlářská dílna III.
+F2.1NP.111,111-chodba
+F2.1NP.111A,111A-chodba
+F2.1NP.113,113-lakýrnická dílna
+F2.1NP.113A,113A-lakýrnická dílna
+F2.1NP.114,114-lakýrnická dílna
+F2.1NP.115,115-předsíň lakýrnická dílna
+F2.1NP.116,116-přípravna truhlárny
+F2.1NP.117,117-chodba
+F2.1NP.118,118-WC štukatéři
+F2.1NP.119,119-WC štukatéři
+F2.1NP.120,120-umývárna štukatéři
+F2.1NP.121,121-schody
+F2.1NP.122,122-chodba
+F2.1NP.123,123-výtah
+F2.1NP.124,124-štukatérská dílna
+F2.1NP.125,125-strojní truhlářská dílna
+F2.1NP.126,126-štukatérská dílna
+F2.1NP.127,127-denní místn. Štukatéři
+F2.1NP.128,128-sochařský ateliér
+F2.1NP.129,129-chodba
+F2.1NP.130,130-kancelář pro CNC stroj
+F2.1NP.131,131-chodba
+F2.1NP.132,132-výdejna nářadí
+F2.1NP.135,135-ruční truhlářská dílna II.
+F2.1NP.136,136-ruční truhlářská dílna I.
+F2.1NP.137,137-zámečnická dílna
+F2.1NP.137A,137A-zámečnická dílna
+F2.1NP.138,138-chodba
+F2.1NP.141,141-příruční sklad stavby
+F2.1NP.142,142-výtah
+F2.1NP.143,143-chodba
+F2.1NP.144,144-schody
+F2.1NP.145,145-umývárna štukatéři
+F2.1NP.146,146-WC zámečníci
+F2.1NP.147,147-WC zámečníci
+F2.1NP.148,148-zámečnická dílna
+F2.1NP.149,149-chodba
+F2.1NP.150,150-kovářská dílna
+F2.1NP.151,151-příruční sklad kovářské dílny
+F2.1NP.152,152-chodba
+F2.1NP.153,153-denní místn. Zámečníci
+F2.1NP.154,154-příruční sklad zámečníků
+F2.1NP.155,155-kancelář mistrů zámečníků
+F2.1NP.156,156-soustružna zámečníci
+F2.1NP.156A,156A-dení místn. Truhláři
+F2.1NP.158,158-WC truhláři
+F2.1NP.159,159-WC truhláři
+F2.1PP.001,001-schody
+F2.1PP.002,002-komora
+F2.1PP.003,003-předsíň
+F2.1PP.004,004-WC
+F2.1PP.005,005-šatna
+F2.1PP.006,006-umývárna
+F2.1PP.007,007-předsíň
+F2.1PP.008,008-sklad CO
+F2.1PP.009,009-sklad CO
+F2.1PP.010,010-sklad CO
+F2.1PP.011,011-výrobní prostory
+F2.1PP.012,012-sklad
+F2.1PP.013,013-chodba
+F2.1PP.014,014-WC
+F2.1PP.015,015-výrobní prostory
+F2.1PP.016,016-sklad
+F2.1PP.017,017-umývárna
+F2.1PP.018,018-šatna
+F2.1PP.019,019-šatna
+F2.1PP.020,020-šatna
+F2.1PP.021,021-šatna
+F2.1PP.022,022-šatna
+F2.1PP.023,023-chodba
+F2.1PP.024,024-sklad
+F2.1PP.025,025-sklad
+F2.1PP.026,026-sklad
+F2.1PP.027,027-WC
+F2.1PP.028,028-sklad
+F2.1PP.029,029-sklad
+F2.1PP.030,030-chodba
+F2.1PP.031,031-umývárna štukatéři
+F2.1PP.032,032-WC štukatéři
+F2.1PP.033,033-WC štukatéři
+F2.1PP.034,034-schody
+F2.1PP.035,035-výtah
+F2.1PP.036,036-sklad štukatéři
+F2.1PP.037,037-sklad vývěvy
+F2.1PP.038,038-sklad lisovna
+F2.1PP.039,039-sklad štukatéři
+F2.1PP.040,040-sklad štukatéři
+F2.1PP.041,041-výrobní prostory
+F2.1PP.042,042-sklad
+F2.1PP.043,043-sklad - modely
+F2.1PP.043A,043A-chodba
+F2.1PP.043B,043B-sklad
+F2.1PP.044,044-sklad
+F2.1PP.045,045-sklad
+F2.1PP.046,046-sklad štukatéři
+F2.1PP.047,047-sklad - modely
+F2.1PP.048,048-výrobní prostory
+F2.1PP.049,049-sklad štukatéři
+F2.1PP.050,050-sklad - laminovna
+F2.1PP.051,051-chodba
+F2.1PP.052,052-sklad
+F2.1PP.053,053-chodba
+F2.1PP.054,054-sklad
+F2.1PP.055,055-sklad
+F2.1PP.056,056-sklad
+F2.1PP.057,057-chodba
+F2.1PP.058,058-chodba
+F2.1PP.059,059-sklad
+F2.1PP.060,060-sklad
+F2.1PP.061,061-výrobní prostory
+F2.1PP.062,062-sklad
+F2.1PP.063,063-sklad štukatéři
+F2.1PP.064,064-sklad
+F2.1PP.065,065-sklad stavba
+F2.1PP.066,066-sklad stavba
+F2.1PP.067,067-výtah
+F2.1PP.068,068-výrobní prostory
+F2.1PP.069,069-schody
+F2.1PP.070,070-sklad
+F2.1PP.073,073-chodba
+F2.1PP.074,074-sklad
+F2.1PP.075,075-sociální zázemí
+F2.1PP.076,076-sklad
+F2.1PP.077,077-sklad
+F2.1PP.078,078-sklad
+F2.1PP.079,079-chodba
+F2.1PP.080,080-sklad
+F2.1PP.081,081-sklad
+F2.1PP.082,082-sociální zázemí
+F2.1PP.083,083-sklad
+F2.1PP.084,"084-sklad ""podkova"" štukatéři"
+F2.1PP.084A,084A-sklad štukatéři
+F2.1PP.085,085-sklad
+F2.1PP.086,086-šatna truhláři
+F2.1PP.087,087-WC truhláři
+F2.1PP.088,088-šatna truhláři
+F2.1PP.089,089-šatna truhláři
+F2.1PP.090,090-šatna truhláři
+F2.1PP.091,091-výrobní prostory
+F2.1PP.092,092-výrobní prostory
+F2.1PP.093,093-předsíň
+F2.1PP.094,094-sklad truhláři
+F2.1PP.095,095-šatna truhláři
+F2.1PP.096,096-sprchy
+F2.1PP.097,097-předsíň
+F2.1PP.098,098-WC
+F2.1PP.A,A-chodba
+F2.1PP.B,B-chodba
+F2.1PP.C,C-chodba
+F2.1PP.D,D-chodba
+F2.1PP.E,E-chodba
+F2.1PP.F,F-chodba
+F2.1PP.G,G-chodba
+F2.1PP.H,H-chodba
+F2.1PP.I,I-chodba
+F2.2NP.200,200-WC ženy
+F2.2NP.201,201-sprchy
+F2.2NP.202,202-WC muži
+F2.2NP.203A,203A-zasedací místn.
+F2.2NP.204,204-kancelář rozpočtářů
+F2.2NP.205,205-mistři stavby I.
+F2.2NP.207,207-mistři stavby II.
+F2.2NP.208,208-dílna čalouníci
+F2.2NP.210,210-dílna malíři
+F2.2NP.212,212-výrobní prostory
+F2.2NP.213,213-výrobní prostory
+F2.2NP.214,214-sklad příruční malíři
+F2.2NP.215,215-chodba
+F2.2NP.216,216-chodba
+F2.2NP.217,217-lakýrnická dílna
+F2.2NP.218,218-sklad šablon malíři
+F2.2NP.219,219-příruční sklad čalouníci
+F2.2NP.220,220-šatna malíři
+F2.2NP.221,221-WC malíři
+F2.2NP.222,222-schody
+F2.2NP.223,223-sklad
+F2.2NP.224,224-výtah
+F2.2NP.225,225-kancelář
+F2.2NP.226,226-kancelář
+F2.2NP.227,227-kancelář
+F2.2NP.227B,227B-kancelář
+F2.2NP.227C,227C-kancelář
+F2.2NP.228A,228A-kancelář
+F2.2NP.228B,228B-kancelář
+F2.2NP.229,229-WC ženy
+F2.2NP.230,230-šatna ženy
+F2.2NP.231,231-WC ženy
+F2.2NP.232,232-WC muži
+F2.2NP.233,233-šatna muži
+F2.2NP.234,234-umývárna muži - dekorace
+F2.2NP.235,235-kancelář
+F2.2NP.236,236-kancelář
+F2.2NP.237,237-výtah
+F2.2NP.238,238-schody
+F2.2NP.239,239-WC
+F2.2NP.240,240-WC
+F2.2NP.241,241-výrobní prostory
+F2.2NP.242,242-kancelář
+F2.2NP.243,243-kancelář
+F2.2NP.243A,243A-kancelář
+F2.2NP.243B,243B-kancelář
+F2.2NP.244,244-kancelář
+F2.2NP.244A,244A-kancelář vedoucího
+F2.2NP.244B,244B-sklad
+F2.2NP.244C,244C-zasedací místnost
+F2.2NP.245,245-kancelář
+F2.2NP.245A,245A-kancelář
+F2.2NP.246,246-kancelář
+F2.2NP.247,247-kancelář
+F2.2NP.248,248-kancelář
+F2.2NP.249,249-schody
+F2.2NP.250,250-chodba
+F2.2NP.251,251-chodba
+F2.2NP.252,252-chodba
+F2.2NP.253,253-chodba
+F2.2NP.254,254-chodba
+F2.2NP.255,255-chodba
+F2.2NP.256,256-chodba
+F2.2NP.257,257-chodba
+F2.2NP.258,258-schody
+F2.2NP.260,260-chodba
+F2.2NP.260A,260A-chodba
+F2.2NP.261,261-chodba
+F2.2NP.262,262-sklad příruční - ředitel
+F2.2NP.263,263-sklad
+F2.2NP.264,264-archiv
+F2.2NP.265,265-kancelář reklamy
+F2.2NP.266,266-chodba
+F2.3NP.300,300-kancelář
+F2.3NP.301,301-sklad
+F2.3NP.302,302-kancelář
+F2.3NP.303,303-WC ženy
+F2.3NP.304,304-sklad+sprcha
+F2.3NP.305,305-WC muži
+F2.3NP.306,306-kancelář
+F2.3NP.307,307-kancelář
+F2.3NP.309,309-výrobní prostory
+F2.3NP.310,310-výrobní prostory
+F2.3NP.311,311-výtah
+F2.3NP.312,312-výtah
+F2.3NP.313,313-chodba
+F2.3NP.314,314-schody
+FA.1NP.101,101-chodba
+FA.1NP.102,102-kancelář
+FA.1NP.103,103-kancelář
+FA.1NP.104,104-kancelář
+FA.1NP.105,105-chodba
+FA.1NP.106,106-kancelář
+FA.1NP.107,107-kancelář
+FA.1NP.108,108-kancelář
+FA.1NP.109,109-kancelář
+FA.1NP.110,110-kancelář
+FA.1NP.111,111-chodba
+FA.1NP.112,112-sociální zázemí
+FA.1NP.113,113-WC
+FC.1MP.309,309-schody
+FC.1MP.310,310-schody
+FC.1MP.311,311-kancelář
+FC.1MP.312,312-sklad
+FC.1NP.200,200-kancelář
+FC.1NP.200A,200A-kancelář
+FC.1NP.201,201-kancelář
+FC.1NP.202,202-kancelář
+FC.1NP.203,203-kancelář
+FC.1NP.204,204-kancelář
+FC.1NP.206,206-kancelář
+FC.1NP.207,207-kancelář
+FC.1NP.208,208-kancelář
+FC.1NP.209,209-kancelář
+FC.1NP.209A,209A-kancelář
+FC.1NP.210,210-kancelář
+FC.1NP.211,211-kancelář
+FC.1NP.212,212-úklid
+FC.1NP.213,213-WC
+FC.1NP.215,215-sklad
+FC.1NP.215A,215A-sklad
+FC.1NP.216,216-kancelář
+FC.1NP.216A,216A-kancelář
+FC.1NP.217,217-kancelář
+FC.1NP.218,218-sklad
+FC.1NP.219,219-kancelář
+FC.1NP.220,220-sociální zázemí
+FC.1NP.221,221-kancelář
+FC.1NP.223,223-kancelář
+FC.1NP.224,224-kancelář
+FC.1NP.225,225-kancelář
+FC.1NP.226,226-kancelář
+FC.1NP.227,227-kancelář
+FC.1NP.233,233-sociální zázemí
+FC.1NP.234,234-kancelář
+FC.1NP.235,235-kancelář
+FC.1NP.236,236-kancelář
+FC.1NP.238,238-kancelář
+FC.1NP.240,240-WC
+FC.1NP.251,251-chodba
+FC.1NP.252,252-sklad
+FC.1NP.253,253-kancelář
+FC.1NP.254,254-chodba
+FC.1NP.255,255-kancelář
+FC.1NP.256,256-sklad
+FC.1NP.257,257-kancelář
+FC.1NP.258,258-chodba
+FC.1NP.259,259-kancelář
+FC.1NP.260,260-schody
+FC.1NP.261,261-schody
+FC.1NP.262,262-kancelář
+FC.1NP.262A,262A-kancelář
+FC.1NP.262B,262B-kancelář
+FC.1NP.263,263-chodba
+FC.1NP.266,266-kancelář
+FC.1NP.267,267-chodba
+FC.1NP.268,268-WC
+FC.1NP.269,269-schody
+FC.1NP.270,270-schody
+FC.1NP.271,271-kancelář
+FC.1NP.272,272-kancelář
+FC.1NP.273,273-kancelář
+FC.1NP.274,274-schody
+FC.1NP.275,275-schody
+FC.1NP.276,276-dílna
+FC.1NP.277,277-kancelář
+FC.1NP.278,278-WC
+FC.1NP.279,279-chodba
+FC.1NP.280,280-chodba
+FC.1NP.281,281-chodba
+FC.1NP.282,282-chodba
+FC.1NP.283,283-chodba
+FC.1NP.284,284-WC
+FC.1NP.285,285-WC
+FC.1NP.286,286-WC
+FC.1NP.287,287-WC
+FC.1NP.288,288-výrobní prostory
+FC.1NP.290,290-výrobní prostory
+FC.1NP.292,292-sociální zázemí
+FC.1NP.293,293-kancelář
+FC.1NP.295,295-chodba
+FC.1NP.296,296-chodba
+FC.1NP.297,297-chodba
+FC.1NP.AT4,AT 4-ateliér
+FC.2NP.300,300-chodba
+FC.2NP.301,301-kancelář
+FC.2NP.302,302-kancelář
+FC.2NP.303,303-kancelář
+FC.2NP.304,304-kancelář
+FC.2NP.305,305-kancelář
+FC.2NP.306,306-sociální zázemí
+FC.2NP.307,307-chodba
+FC.2NP.308,308-kancelář
+FC.3NP.400,400-schody
+FC.3NP.401,401-výrobní prostory
+FC.3NP.402,402-výrobní prostory
+FC.3NP.403,403-schody
+FC.3NP.404,404-sklad
+FC.3NP.405,405-sklad
+G1.1NP.101,101-kotelna
+G1.1NP.102,102-chodba
+G1.1NP.103,103-šatna
+G1.1NP.104,104-velín
+G1.1NP.105,105-chodba
+G1.1NP.106,106-umývárna
+G1.1NP.107,107-WC
+G1.1NP.108,108-úklid
+G2.1NP.101,101-chodba
+G2.1NP.102,102-sklad
+G2.1NP.103,103-dílna
+G2.1NP.104,104-sklad
+G2.1NP.105,105-rekvizitárna
+G2.1NP.106,106-WC
+G2.1NP.108,108-výrobní prostory
+G2.1NP.109,109-schody
+G2.1PP.001,001-výrobní prostory
+G2.1PP.002,002-výrobní prostory
+G2.1PP.003,003-výrobní prostory
+G2.1PP.004,004-sklad
+G2.1PP.005,005-chodba
+G2.1PP.006,006-výrobní prostory
+G2.1PP.008,008-chodba
+G2.1PP.009,009-chodba
+G2.1PP.010,010-schody
+G2.1PP.011,011-výrobní prostory
+G2.1PP.012,012-chodba
+G2.1PP.018,018-schody
+G2.2NP.201,201-chodba
+G2.2NP.202,202-sklad
+G2.2NP.202A,202A-sklad
+G2.2NP.203,203-chodba
+G2.2NP.204,204-kancelář
+G2.2NP.205,205-kancelář
+G2.2NP.206,206-WC
+G2.2NP.206A,206A-WC
+G2.2NP.207,207-sociální zázemí
+G2.2NP.208,208-kancelář
+G2.2NP.209,209-chodba
+G2.2NP.210,210-kancelář
+G2.2NP.211,211-chodba
+G2.2NP.212,212-kancelář
+G2.2NP.212A,212A-sklad
+G2.2NP.213,213-sklad
+G2.2NP.214,214-kancelář
+G2.2NP.215,215-schody
+G3.1NP.101,101-dílna
+G3.1NP.101A,101A-sociální zázemí
+G3.1NP.102,102-dílna
+G3.1NP.102A,102A-sociální zázemí
+G3.1NP.103,103-úklid
+G3.1NP.104,104-WC
+G3.1NP.105,105-úklid
+G3.1NP.106,106-WC
+G4.1NP.101,101-kancelář
+G4.1NP.102,102-chodba
+G4.1NP.103,103-dílna
+G4.1NP.103A,103A-dílna
+G4.1NP.104,104-sklad
+G4.1NP.105,105-kancelář
+G4.1NP.106,106-dílna
+G4.1NP.107,107-dílna
+G4.1NP.108,108-sklad
+G4.1NP.109,109-sklad
+G4.1NP.110,110-sklad
+G4.1NP.111,111-výtah
+G4.1NP.112,112-výtah
+G4.1NP.113,113-WC
+G4.1NP.114,114-sklad
+G4.1NP.115,115-dílna
+G4.1NP.116,116-kancelář
+G4.1NP.117,117-sklad
+G4.1NP.118,118-dílna
+G4.1NP.119,119-dílna
+G4.1NP.120,120-WC
+G4.1NP.121,121-chodba
+G4.1NP.122,122-schody
+G4.1NP.124,124-chodba
+G4.1PP.001,001-chodba
+G4.1PP.002,002-sklad
+G4.1PP.003,003-sklad
+G4.1PP.004,004-šatna
+G4.1PP.005,005-sociální zázemí
+G4.1PP.006,006-chodba
+G4.1PP.007,007-šatna
+G4.1PP.008,008-sociální zázemí
+G4.1PP.009,009-výrobní prostory
+G4.1PP.010,010-schody
+G4.1PP.011,011-WC
+G4.1PP.012,012-WC
+G4.1PP.013,013-výtah
+G4.1PP.014,014-výtah
+G4.2NP.201,201-chodba
+G4.2NP.202,202-sklad
+G4.2NP.203,203-sklad
+G4.2NP.204,204-WC
+G4.2NP.205,205-WC
+G4.2NP.206,206-kancelář
+G4.2NP.207,207-schody
+G4.2NP.208,208-výtah
+G4.2NP.209,209-výtah
+G4.3NP.301,301-chodba
+G4.3NP.302,302-kancelář
+G4.3NP.303,303-sklad
+G4.3NP.304,304-WC
+G4.3NP.305,305-WC
+G4.3NP.306,306-sklad
+G4.3NP.307,307-výtah
+G4.3NP.308,308-výtah
+G4.3NP.309,309-schody
+G4.4NP.401,401-výrobní prostory
+G4.4NP.402,402-výrobní prostory
+G4.4NP.403,403-výrobní prostory
+G4.4NP.404,404-výrobní prostory
+G4.4NP.405,405-výrobní prostory
+G5.1NP.201,201-chodba
+G5.1NP.202,202-sklad
+G5.1NP.203,203-WC
+G5.1NP.204,204-WC
+G5.1NP.205,205-WC
+G5.1NP.206,206-WC
+G5.1NP.207,207-sklad
+G5.1NP.208,208-sklad
+G5.1NP.209,209-sklad
+G5.1NP.210,210-sklad
+G5.1NP.211,211-kancelář
+G5.1NP.212,212-kancelář
+G5.1NP.213,213-kancelář
+G5.1NP.214,214-kancelář
+G5.1NP.215,215-výtah
+G5.1NP.216,216-sklad
+G5.1NP.217,217-výtah
+G5.1NP.218,218-chodba
+G5.1NP.219,219-sklad
+G5.1PP.101,101-chodba
+G5.1PP.102,102-WC
+G5.1PP.103,103-WC
+G5.1PP.104,104-WC
+G5.1PP.105,105-šatna
+G5.1PP.106,106-úklid
+G5.1PP.107,107-sociální zázemí
+G5.1PP.108,108-sociální zázemí
+G5.1PP.109,109-sklad
+G5.1PP.110,110-šatna
+G5.1PP.111,111-výrobní prostory
+G5.1PP.112,112-sociální zázemí
+G5.1PP.113,113-výrobní prostory
+G5.1PP.114,114-výtah
+G5.1PP.115,115-sklad
+G5.1PP.116,116-sklad
+G5.1PP.116A,116A-sklad
+G5.1PP.117,117-výtah
+G5.1PP.118,118-chodba
+G5.1PP.118A,118A-sklad
+G5.1PP.118B,118B-sklad
+G5.1PP.119,119-sklad
+G5.1PP.120,120-WC
+G5.1PP.121,121-chodba
+G5.1PP.122,122-schody
+G5.1PP.123,123-jídelna
+G5.1PP.124,124-sklad
+G5.2NP.301,301-chodba
+G5.2NP.302,302-sklad
+G5.2NP.303,303-WC
+G5.2NP.304,304-WC
+G5.2NP.305,305-WC
+G5.2NP.306,306-WC
+G5.2NP.307,307-sklad
+G5.2NP.308,308-dílna
+G5.2NP.309,309-dílna
+G5.2NP.310,310-dílna
+G5.2NP.311,311-dílna
+G5.2NP.312,312-kancelář
+G5.2NP.313,313-sklad
+G5.2NP.314A,314A-kancelář
+G5.2NP.314B,314B-kancelář
+G5.2NP.315,315-dílna
+G5.2NP.316,316-dílna
+G5.2NP.317,317-dílna
+G5.2NP.318,318-dílna
+G5.2NP.319,319-dílna
+G5.2NP.320,320-sklad
+G5.2NP.321,321-sklad
+G5.2NP.322,322-sklad
+G5.2NP.323,323-výtah
+G5.2NP.324,324-sklad
+G5.2NP.325,325-výtah
+G5.2NP.326,326-schody
+G5.2PP.001,001-chodba
+G5.2PP.002,002-sklad
+G5.2PP.003,003-výtah
+G5.2PP.004,004-chodba
+G5.2PP.005,005-sklad
+G5.2PP.006,006-sklad
+G5.2PP.007,007-výrobní prostory
+G5.2PP.008,008-schody
+G5.3NP.401,401-chodba
+G5.3NP.402,402-sklad
+G5.3NP.403,403-WC
+G5.3NP.404,404-WC
+G5.3NP.405,405-WC
+G5.3NP.406,406-WC
+G5.3NP.407,407-chodba
+G5.3NP.408,408-sklad
+G5.3NP.409,409-sklad
+G5.3NP.410,410-dílna
+G5.3NP.411,411-kancelář
+G5.3NP.412A,412A-dílna
+G5.3NP.412B,412B-dílna
+G5.3NP.412C,412C-dílna
+G5.3NP.413,413-sklad
+G5.3NP.414,414-sklad
+G5.3NP.415,415-sklad
+G5.3NP.416,416-výtah
+G5.3NP.417,417-sklad
+G5.3NP.418,418-schody
+G5.4NP.501,501-chodba
+G5.4NP.502,502-kancelář
+G5.4NP.503,503-kancelář
+G5.4NP.504,504-kancelář
+G5.4NP.505,505-chodba
+G5.4NP.506,506-sklad
+G5.4NP.507,507-kancelář
+G5.4NP.508,508-kancelář
+G5.4NP.509,509-výrobní prostory
+G5.4NP.510,510-WC
+G5.4NP.511,511-kuchyňka
+G5.4NP.512,512-výrobní prostory
+G5.4NP.513,513-kancelář
+G5.4NP.514,514-kancelář
+G5.4NP.516,516-výtah
+GA.1NP.101,101-chodba
+GA.1NP.102,102-denní místnost
+GA.1NP.103,103-chodba
+GA.1NP.104,104-pokoj
+GA.1NP.105,105-koupelna
+GA.1NP.106,106-pokoj
+GA.1NP.107,107-kancelář
+GA.1NP.108,108-sklad
+GA.1NP.109,109-umývárna
+GA.1NP.110,110-výrobní prostory
+GA.1NP.111,111-úklid
+GA.1NP.112,112-WC
+GB.1NP.101,101-sklad
+GB.1NP.102,102-sklad
+GB.1NP.103,103-sklad
+GB.1NP.104,104-sklad
+GB.1NP.105,105-sklad
+GB.1NP.106,106-sklad
+GB.1NP.107,107-sklad
+GB.1NP.108,108-sklad
+GB.1NP.109,109-sklad
+GB.1NP.110,110-sklad
+GB.1NP.111,111-sklad
+GB.1NP.112,112-sklad
+GB.1NP.113,113-sklad
+GB.1NP.114,114-sklad
+GB.1NP.115,115-sklad
+GB.1NP.116,116-sklad
+GB.1NP.117,117-sklad
+GB.1PP.001,001-sklad
+GB.1PP.002,002-sklad
+GB.1PP.003,003-sklad
+GB.1PP.004,004-sklad
+GB.1PP.005,005-sklad
+J1.1NP.101,101-kancelář
+J1.1NP.102,102-kancelář
+J1.1NP.103,103-chodba
+J1.1NP.104,104-WC
+J1.1NP.105,105-úklid
+J1.1NP.106,106-WC
+J1.1NP.107,107-WC
+J1.1NP.108,108-chodba
+J1.1NP.109,109-schody
+J1.1NP.110,110-sklad
+J1.1NP.111,111-sklad
+J1.1NP.112,112-dílna
+J1.1NP.113,113-dílna
+J1.1NP.114,114-dílna
+J1.1NP.115,115-dílna
+J1.1NP.116,116-dílna
+J1.1NP.117,117-dílna
+J1.1NP.118,118-sociální zázemí
+J1.1NP.119,119-WC
+J1.1NP.120,120-výrobní prostory
+J1.1NP.121,121-dílna
+J1.1NP.122,122-dílna
+J1.1NP.124,124-dílna
+J1.1NP.126,126-kancelář
+J1.1NP.126A,126A-kancelář
+J1.1NP.127,127-dílna
+J1.1NP.127A,127A-WC
+J1.1PP.001,001-schody
+J1.1PP.002,002-sklad
+J1.1PP.003,003-chodba
+J1.1PP.004,004-sklad
+J1.1PP.005,005-výrobní prostory
+J1.2NP.201,201-chodba
+J1.2NP.201A,201A-chodba
+J1.2NP.202,202-sociální zázemí
+J1.2NP.203,203-WC
+J1.2NP.204,204-WC
+J1.2NP.205,205-chodba
+J1.2NP.206,206-sklad
+J1.2NP.207,207-kancelář
+J2.1NP.101,101-sklad
+J3.1NP.101,101-sklad
+J4.1NP.001,001-sklad
+J5.1NP.102,102-sklad
+J5.1NP.103,103-kancelář
+J5.1NP.104,104-chodba
+J5.1NP.105,105-chodba
+J5.1NP.106,106-kuchyňka
+J5.1NP.107,107-WC
+J5.1NP.108,108-WC
+J5.1NP.109,109-úklid
+J5.1NP.110,110-dílna
+J5.1NP.113,113-umývárna
+J5.1NP.114,114-sklad
+J5.1NP.115,115-sklad
+J5.1NP.116,116-sklad
+J5.1NP.117,117-kotelna
+J5.1NP.118,118-sklad
+J5.1NP.119,119-sklad
+J5.2NP.201,201-chodba
+J5.2NP.202,202-chodba
+J5.2NP.203,203-kancelář
+J5.2NP.204,204-kancelář
+J5.2NP.205,205-WC
+J5.2NP.206,206-WC
+J5.2NP.207,207-sprchy
+J5.2NP.209,209-chodba
+J5.2NP.210,210-kancelář
+J5.2NP.212,212-dílna
+J5.2NP.213,213-kancelář
+J5.2NP.214,214-sklad
+J5.2NP.215,215-kancelář
+J5.2NP.216,216-sklad
+J5.2NP.217,217-kuchyňka
+J5.2NP.218,218-WC
+J5.2NP.219,219-WC
+J5.2NP.223,223-schody
+J5.2NP.224,224-kancelář
+J5.2NP.225,225-chodba
+J5.2NP.226,226-chodba
+J5.2NP.227,227-kancelář
+J5.2NP.228,228-kuchyňka
+J5.2NP.229,229-kancelář
+J5.2NP.230,230-kancelář
+J5.2NP.231,231-kancelář
+J5.2NP.232,232-sklad
+J6.1NP.101,101-chodba
+J6.1NP.102,102-sklad
+J6.1NP.103,103-kancelář
+J6.1NP.104,104-WC
+J6.1NP.105,105-chodba
+J6.1NP.106,106-sklad
+J6.1NP.107,107-kancelář
+J6.1NP.108,108-WC
+J6.2NP.200,200-chodba
+J6.2NP.201,201-kancelář
+J6.2NP.202,202-WC
+J6.2NP.203,203-sklad
+J6.2NP.204,204-sklad
+J6.2NP.204A,204A-sklad
+J6.2NP.205,205-chodba
+J6.2NP.206,206-kancelář
+J6.2NP.207,207-WC
+J6.2NP.208,208-sklad
+J6.2NP.209,209-sklad
+J6.2NP.209A,209A-sklad
+J6.2NP.209B,209B-sklad
+J6.2NP.210,210-dílna
+J7.1NP.101,101-sklad
+J8.1NP.101,101-sklad
+J8.1NP.102,102 - sklad
+JA.1NP.101,101 - plechová garáž
+JB.1NP.101,101-sklad
+19.1NP.101,101-kancelář
+19.1NP.102,102-kuchyň
+19.1NP.103,103-wc
+20.1NP.001,001-výrobní prostory
+20.1NP.002,002-výrobní prostory
+20.1NP.003,003-výrobní prostory
+20.1NP.004,004-výrobní prostory
+20.1NP.005,005-dílna
+20.1NP.006,006-sociální zázemí
+20.1NP.007,007-chodba
+21.1NP.101,101-sklad
+21.1NP.102,102-sklad
+M1.1NP.100,100-kancelář
+M1.1NP.101,101-chodba
+M1.1NP.102,102-chodba
+M1.1NP.102A,102A-schody
+M1.1NP.103,103- telef.ústředna
+M1.1NP.104,104-kancelář
+M1.1NP.105,105-kancelář
+M1.1NP.106,106-sociální zázemí
+M1.1NP.106A,106A-WC
+M1.1NP.107,107-sklad
+M1.1NP.108,108-chodba
+M1.1NP.109,109-WC
+M1.1NP.110,110-kancelář
+M1.1NP.111,111-kancelář
+M1.1NP.112,112-kancelář
+M1.1PP.001,001-chodba
+M1.1PP.002,002-chodba
+M1.1PP.003,003-sklad
+M1.1PP.004,004-sklad
+M1.1PP.005,005-sklad
+M1.1PP.006,006-sklad
+M1.1PP.007,007-sklad
+M1.1PP.008,008-sklad
+M1.1PP.009,009-kotelna
+M1.1PP.010,010-sklad
+M1.1PP.010A,010A-sklad
+M1.1PP.010B,010B-sklad
+M1.2NP.200,200-schody
+M1.2NP.201,201-kancelář
+M1.2NP.202,202-kancelář
+M1.2NP.203,203-kancelář
+M1.2NP.204,204-WC
+M1.2NP.206A,206A-chodba
+M1.2NP.206B,206B-sociální zázemí
+M1.2NP.207,207-WC
+M1.2NP.208,208-kancelář
+M1.2NP.209,209-kancelář
+M1.2NP.210,210-kancelář
+M1.3NP.300,300-schody
+M1.3NP.301,301-kancelář
+M1.3NP.302,302-kancelář
+M1.3NP.303,303-kancelář
+M1.3NP.304,304-WC
+M1.3NP.306,306-chodba
+M1.3NP.307,307-WC
+M1.3NP.308,308-kancelář
+M1.3NP.309,309-kancelář
+M1.3NP.310,310-kancelář
+M1.4NP.400,400-sociální zázemí
+M1.4NP.401,401-kancelář
+M1.4NP.402,402-sociální zázemí
+M1.4NP.403,403-umývárna
+M1.4NP.403A,403A-WC
+M1.4NP.404,404-kancelář
+M1.4NP.405,405-kancelář
+M1.4NP.406,406-sklad
+M1.4NP.407,407-sklad
+M1.4NP.408,408-schody
+M2.1NP.100,100-chodba
+M2.1NP.101,101-schody
+M2.1NP.102,102-kuchyň
+M2.1NP.103,103-kuchyň
+M2.1NP.104,104-kuchyň
+M2.1NP.105,105-jídelna
+M2.1NP.106,106-chodba
+M2.1NP.106A,106A-chodba
+M2.1NP.107,107-kancelář
+M2.1NP.108,108-chodba
+M2.1NP.109,109-sociální zázemí
+M2.1NP.110,110-WC
+M2.1NP.111,111-úklid
+M2.1NP.112,112-sklad
+M2.1NP.113,113-sklad
+M2.1NP.114,114-schody
+M2.1NP.115,115-chodba
+M2.1NP.116,116-sociální zázemí
+M2.1NP.117,117-kancelář
+M2.1NP.118,118-kancelář
+M2.1PP.001,001-chodba
+M2.1PP.002,002-chodba
+M2.1PP.003,003-kotelna M2
+M2.1PP.004,004-sklad
+M2.1PP.005,005-chodba
+M2.1PP.005A,005A-chodba
+M2.1PP.005B,005B-sklad
+M2.1PP.006,006-sklad
+M2.1PP.007,007-sklad
+M2.1PP.008,008-sklad
+M2.1PP.009,009-sklad
+M2.1PP.010,010-sklad
+M2.1PP.011,011-sklad
+M2.1PP.013,013-chodba
+M2.1PP.014,014-schody
+M2.1PP.015,015-sklad
+M2.1PP.016,016-sklad
+M2.1PP.017,017-sklad
+M2.1PP.018,018-sklad
+M2.1PP.019,019-schody
+M2.1PP.020,020-sklad
+M2.2NP.200,200-schody
+M2.2NP.201,201-chodba
+M2.2NP.202,202-sociální zázemí
+M2.2NP.202A,202A-chodba
+M2.2NP.202B,202B-sklad
+M2.2NP.203,203-kancelář
+M2.2NP.204,204-kancelář
+M2.2NP.205,205-kancelář
+M2.2NP.206,206-kancelář
+M2.2NP.207,207-kancelář
+M2.2NP.208,208-WC
+M2.2NP.209,209-WC
+M2.2NP.210,210-kancelář
+M2.2NP.211,211-kancelář
+M2.3NP.300,300-schody
+M2.3NP.300A,300A-úklid
+M2.3NP.301,301-chodba
+M2.3NP.302,302-kuchyň
+M2.3NP.302A,302A-chodba
+M2.3NP.303,303-kancelář
+M2.3NP.304,304-kancelář
+M2.3NP.305,305-kancelář
+M2.3NP.306,306-kancelář
+M2.3NP.307,307-kancelář
+M2.3NP.308,308-WC
+M2.3NP.309,309-WC
+M2.3NP.310,310-kancelář
+M2.3NP.311,311-kancelář
+M4.1NP.001,001-kancelář
+M4.1NP.002,002-kancelář
+M4.1NP.004,004-WC
+M4.1NP.005,005-chodba
+M4.1NP.006,006-výrobní prostory
+M4.1NP.007,007-kancelář
+M4.1NP.008,008-kancelář
+M4.1NP.009,009-chodba
+M4.1NP.009A,009A-chodba
+M4.1NP.010,010-kancelář
+M4.1NP.011,011-kancelář
+M4.1NP.012,012-sklad
+M4.1NP.013,013-chodba
+M4.1NP.013A,013A-chodba
+M4.1NP.013B,013B-chodba
+M4.1NP.014,014-úklid
+M4.1NP.016,016-sklad
+M4.1NP.017,017-dílna
+M4.1NP.018,018-výrobní prostory
+M4.1NP.019,019-sklad
+M4.1NP.019A,019A-sklad
+M4.1NP.020,020-sklad
+M4.1NP.020A,020A-sklad
+M4.1NP.021,021-schody
+M4.1NP.022,022-sklad
+M4.1NP.023,023-výrobní prostory
+M4.1NP.024,024-sklad
+M4.1NP.025,025-sklad
+M4.1NP.026,026-sklad
+M4.1NP.026A,026A-sklad
+M4.1NP.027,027-sklad
+M4.1NP.027A,027A-sklad
+M4.1NP.027B,027B-sklad
+M4.1NP.028,028-chodba
+M4.1NP.028A,028A-sklad
+M4.1NP.029,029-WC
+M4.1NP.030,030-WC ženy
+M4.1NP.031,031-WC
+M4.1NP.032,032-WC muži
+M4.1NP.033,033-sklad
+M4.1NP.033A,033A-sklad
+M4.1NP.034,034-chodba
+M4.1NP.036,036-kuchyň
+M4.1NP.036A,036A-WC
+M4.1NP.036B,036B-WC
+M4.1NP.036C,036C-WC
+M4.1NP.037,037-chodba
+M4.1NP.037A,037A-kancelář
+M4.1NP.038,038-kancelář
+M4.1NP.039,039-chodba
+M4.1NP.039A,039A-kancelář
+M4.1NP.039B,039B-kancelář
+M4.1NP.039C,039C-kancelář
+M4.1NP.040,040-výrobní prostory
+M4.1NP.041,041-výrobní prostory
+M4.1NP.042,042-výrobní prostory
+M4.1NP.043,043-sklad
+M4.1NP.044,044-chodba
+M4.1NP.045,045-ateliér
+M4.1NP.047,047-chodba
+M4.1NP.049,049-chodba
+M4.1NP.050,050-ateliér
+M4.1NP.051,051-výrobní prostory
+M4.1NP.052,052-výrobní prostory
+M4.1NP.053,053-výrobní prostory
+M4.1NP.054,054-chodba
+M4.1NP.055,055-sklad
+M4.1NP.056,056-sklad
+M4.1NP.057,057-schody
+M4.1NP.15,15-WC
+M4.2NP.100,100-schody
+M4.2NP.101,101-kancelář
+M4.2NP.103,103-WC
+M4.2NP.104,104-sociální zázemí
+M4.2NP.105,105-chodba
+M4.2NP.106,106-chodba
+M4.2NP.107,107-kancelář
+M4.2NP.108,108-kancelář
+M4.2NP.109,109-kancelář
+M4.2NP.110,110-fotoateliér
+M4.2NP.111,111-sklad
+M4.2NP.112,112-sklad
+M4.2NP.113,113-chodba
+M4.2NP.114,114-WC
+M4.2NP.115,115-sklad
+M4.2NP.116,116-WC
+M4.2NP.117,117-chodba
+M4.2NP.118,118-kancelář
+M4.2NP.119,119-kancelář
+M4.2NP.120,120-kancelář
+M4.2NP.121,121-sociální zázemí
+M4.2NP.122,122-schody
+M4.2NP.123,123-chodba
+M4.2NP.124,124-chodba
+M4.2NP.124A,124A-kuchyň
+M4.2NP.125,125-kancelář
+M4.2NP.126,126-kancelář
+M4.2NP.127,127-kancelář
+M4.2NP.128,128-chodba
+M4.2NP.128A,128A-chodba
+M4.2NP.129,129-kancelář
+M4.2NP.130,130-chodba
+M4.2NP.130A,130A-sklad
+M4.2NP.132,132-kancelář
+M4.2NP.133,133-136 - horní WC
+M4.2NP.134,134-WC
+M4.2NP.135,135-WC
+M4.2NP.136,136-WC
+M4.2NP.137,137-chodba
+M4.2NP.138,138-sociální zázemí
+M4.2NP.139,139-WC
+M4.2NP.140,140-chodba
+M4.2NP.141,141-kancelář
+M4.2NP.142,142-kancelář
+M4.2NP.144,144-schody
+M4.2NP.145,145-chodba
+M4.3NP.200,200-schody
+M4.3NP.201,201-WC
+M4.3NP.202,202-chodba
+M4.3NP.203,203-sklad
+M4.3NP.204,204-kancelář
+M4.3NP.205,205-chodba
+M4.3NP.206,206-kancelář
+M4.3NP.207,207-kancelář
+M4.3NP.208,208-kancelář
+M4.3NP.209,209-kancelář
+M4.3NP.210,210-sociální zázemí
+M4.3NP.211,211-kancelář
+M4.3NP.212,212-kancelář
+M5.1NP.A1,A1-kancelář
+M5.1NP.A10,A10-kancelář
+M5.1NP.A11,A11-kancelář
+M5.1NP.A12,A12-jídelna
+M5.1NP.A12A,A12A-sklad
+M5.1NP.A12B,A12B-server
+M5.1NP.A2,A2-kancelář
+M5.1NP.A3,A3-kancelář
+M5.1NP.A4,A4-kancelář
+M5.1NP.A5,A5-kancelář
+M5.1NP.A6,A6-kancelář
+M5.1NP.A7,A7-chodba
+M5.1NP.A7A,A7A-chodba
+M5.1NP.A8,A8-chodba
+M5.1NP.A8A,A8A-kancelář
+M5.1NP.A9,A9-chodba
+M5.1NP.B1,B1-kancelář
+M5.1NP.B10,B10-kancelář
+M5.1NP.B11,B11-kancelář
+M5.1NP.B12,B12-kancelář
+M5.1NP.B13,B13-kancelář
+M5.1NP.B2,B2-kancelář
+M5.1NP.B3,B3-kancelář
+M5.1NP.B4,B4-kancelář
+M5.1NP.B5,B5-kancelář
+M5.1NP.B6,B6-kancelář
+M5.1NP.B7,B7-kancelář
+M5.1NP.B7A,B7A-kotelna M5
+M5.1NP.B9,B9-kancelář
+M5.1NP.B9A,B9A-kancelář
+M5.1NP.C1,C1-chodba
+M5.1NP.C2,C2-chodba
+M5.1NP.C3,C3-WC
+M5.1NP.C4,C4-WC
+M5.1NP.C5,C5-sklad
+M5.2NP.C11,C11-chodba
+M5.2NP.C12,C12-rozvodna M5 a M6
+M5.2NP.C13,C13-kancelář
+M6.1NP.01,01-ateliér
+M6.1NP.02,02-ateliér
+M6.1NP.03,03-chodba
+M6.1NP.04,04-sklad
+M6.1NP.05,05-sklad
+M6.1NP.06,06-chodba
+M6.1NP.07,07-schody
+M6.1NP.08,08-chodba
+M6.1NP.08A,08A-sklad
+M6.1NP.09,09-chodba
+M6.1NP.09A,09A-sklad
+M6.1NP.10,10-sklad
+M6.1NP.11,11-chodba
+M6.1NP.12,12-sklad
+M6.1NP.13,13-sklad
+M6.1NP.14,14-sklad
+M6.1NP.14A,14A-sklad
+M6.1NP.14B,14B-sklad
+M6.1NP.15,15-sklad
+M6.1NP.16,16-sklad
+M6.1NP.17,17-sociální zázemí
+M6.1NP.18,18-sklad
+M6.1NP.19,19-chodba
+M6.1NP.20,20-sklad
+M6.2NP.100,100-schody
+M6.2NP.101,101-chodba
+M6.2NP.102,102-WC
+M6.2NP.102A,102A-WC
+M6.2NP.103,103-WC
+M6.2NP.104,104-sociální zázemí
+M6.2NP.105,105-WC
+M6.2NP.106,106-WC
+M6.2NP.107,107-WC
+M6.2NP.108,108-sociální zázemí
+M6.2NP.109,109-sklad
+M6.2NP.110,110-chodba
+M6.2NP.110A,110A-sklad
+M6.2NP.111,111-sklad
+M6.2NP.112,112-sklad
+M6.2NP.113,113-sklad
+M6.3NP.200,200-schody
+M6.3NP.201,201-sklad
+M6.3NP.202,202-kancelář
+M6.3NP.203,203-kancelář
+M6.3NP.204,202 - kancelář
+M6.3NP.205,205-kancelář
+N7.1NP.100,100-chodba
+N7.1NP.101,101-kancelář
+N7.1NP.102,102-kancelář
+N7.1NP.103,103-garáž
+N7.1NP.104,104-chodba
+N7.1NP.105,105-sociální zázemí
+N7.1NP.106,106-sklad
+N7.1NP.107,107-garáž
+N7.1NP.108,108-sklad
+N7.1NP.109,109-sklad
+P2.1NP.101,101-sklad
+P2.1NP.102,102-sklad
+P2.1NP.103,103-sklad
+P2.1NP.104,104-sklad
+P2.1NP.105,105-sklad
+P2.1NP.106,106-sklad
+P2.1NP.107,107-sklad
+P3.1NP.101,101-garáž
+P5.1NP.001,001-sklad
+P5.1NP.002,002-sklad

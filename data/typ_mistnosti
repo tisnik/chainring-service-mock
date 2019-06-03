@@ -1,0 +1,141 @@
+Kód typu	Název typu
+0100	aula a sál
+0101	sál počítačový
+0140	sál operační
+0200	posluchárna
+0202	posluchárna botanická
+0300	seminární místnost
+0304	seminárka fyzikální
+0317	seminárka biochemická
+0400	učebna
+0401	učebna počítačová 
+0402	učebna botanická
+0500	laboratoř
+0502	laboratoř botanická
+0503	laboratoř chemická
+0504	laboratoř fyzikální
+0505	laboratoř zoologická
+0506	laboratoř toxikologická
+0507	laboratoř serologická
+0509	laboratoř histologická
+0510	laboratoř foto
+0512	laboratoř alkoholová
+0513	laboratoř bakteriologická
+0514	laboratoř serologická
+0515	laboratoř mykologická
+0516	laboratoř cytologie
+0517	laboratoř biochemická
+0518	laboratoř imunologická
+0519	laboratoř mol. biologie
+0520	laboratoř vakcíny
+0521	laboratoř antibiotická
+0522	laboratoř mykobakterie
+0523	laboratoř varna půd
+0526	laboratoř analytická
+0527	laboratoř dezinfekce vod
+0528	laboratoř kultivace plísní
+0529	laboratoř tkáňové kultury
+0540	laboratoř operační
+0600	tělocvična
+0700	bazén
+0800	loděnice
+0900	sauna
+1000	ambulance
+1100	ordinace
+1200	přípravna
+1201	přípravna počítačová
+1202	přípravna botanická
+1203	přípravna chemická
+1217	přípravna biochemická
+1220	drtírna
+1300	kopírka
+1400	šatna
+1500	rehabilitace
+1600	vyšetřovna
+1700	filtr
+1800	pitevna
+2000	knihovna
+2100	studovna
+2101	studovna počítačová
+2200	pracovna
+2201	pracovna počítačová
+2202	pracovna botanická
+2217	pracovna biochemická
+2300	kancelář
+2301	kancelář počítačová
+2400	kabinet
+2500	fytotron
+2502	fytotron botanický
+2503	fytotron chemický
+2518	fytotron imunologický
+2700	přípravna
+2800	galerie
+2900	klubovna
+3000	výstavní prostor
+3100	ateliér
+3110	ateliér foto
+3200	zasedací místnost
+3300	studio
+3330	studio zvukové
+3331	studio televizní 
+3333	studio promítací
+3334	videostřižna
+3350	dramaturgie a produkce
+3400	archiv
+3500	denní místnost
+3600	místnost chladící, mrazící
+3700	místnost přístroje
+4000	bufet
+4100	jídelna
+4200	varna
+4300	výdejna
+4400	kuchyňka
+4500	restaurace
+5000	pokoj
+5100	byt
+5200	chatka
+5300	vodárna
+5400	kopírna
+5500	kotelna
+5600	předávací stanice
+5700	rozvodna
+5800	strojovna
+5850	strojovna vzduchotechniky
+5900	sklad
+5901	sklad počítačový
+5902	sklad botanický
+5903	sklad chemický
+5904	sklad fyzikální
+5906	sklad toxikologický
+5917	sklad biochemický
+5924	sklad expedice
+5932	sklad knihy
+5933	sklad-depozitář
+5950	provozní místnost
+5960	spisovna
+5970	technologická místnost
+6000	vrátnice
+6100	ústředna
+6200	garáž
+6300	dílna
+6301	dílna počítačová
+6400	prodejna
+6500	kolárna
+6600	server
+6700	CO
+6800	tiskárna
+6900	knihárna
+7000	chodba
+7100	schodiště
+7200	vstupní hala
+7300	výtahová šachta
+7400	zádveří
+7500	předsíň
+8000	WC a sprcha
+8100	úklidová komora
+8200	terasa
+8300	střecha
+8400	půda
+8500	lyžárna
+9900	ostatní
+50000	TECH. ZÁZEMÍ

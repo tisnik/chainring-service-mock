@@ -1,0 +1,122 @@
+AOID,Label
+A1.1MP,1.mezipodlaží
+A1.1NP,1.nadzemní podlaží
+A1.1PP,1.podzemní podlaží
+A1.2MP,2.mezipodlaží
+A1.2NP,2.nadzemní podlaží
+A1.3MP,3.mezipodlaží
+A1.3NP,3.nadzemní podlaží
+A1.4MP,4.mezipodlaží
+A1.4NP,4.nadzemní podlaží
+A10.1NP,1.nadzemní podlaží
+A10.2NP,2.nadzemní podlaží
+A4.1NP,1.nadzemní podlaží
+A4.1PP,1.podzemní podlaží
+A4.2NP,2.nadzemní podlaží
+A5.1NP,1.nadzemní podlaží
+A5.2NP,2.nadzemní podlaží
+A6.1NP,1.nadzemní podlaží
+A7.1NP,1.nadzemní podlaží
+A7.2NP,2.nadzemní podlaží
+AA.1NP,1.nadzemní podlaží
+AC.1NP,1.nadzemní podlaží
+AE.1NP,1.nadzemní podlaží
+B2.1NP,1.nadzemní podlaží
+B2.1PP,1.podzemní podlaží
+B3.1NP,1.nadzemní podlaží
+B3.1PP,1.podzemní podlaží
+B3.2NP,2.nadzemní podlaží
+B3.3NP,3.nadzemní podlaží
+B4.1NP,1.nadzemní podlaží
+B5.1NP,1.nadzemní podlaží
+B5.1PP,1.podzemní podlaží
+B6.1NP,1.nadzemní podlaží
+B7.1NP,1.nadzemní podlaží
+B7.2NP,2.nadzemní podlaží
+BA.1NP,1.nadzemní podlaží
+BB.1NP,1.nadzemní podlaží
+BB.1PP,1.podzemní podlaží
+C1.1NP,1.nadzemní podlaží
+C1.1PP,1.podzemní podlaží
+C1.2NP,2.nadzemní podlaží
+C1.3NP,3.nadzemní podlaží
+C10.1NP,1.nadzemní podlaží
+C3.1NP,1.nadzemní podlaží
+C3.1PP,1.podzemní podlaží
+C4.1NP,1.nadzemní podlaží
+C4.1PP,1.podzemní podlaží
+C4.2NP,2.nadzemní podlaží
+C4.3NP,3.nadzemní podlaží
+C5.1NP,1.nadzemní podlaží
+C8.1MP,1.mezipodlaží
+C8.1NP,1.nadzemní podlaží
+C8.2MP,2.mezipodlaží
+C8.2NP,2.nadzemní podlaží
+C8.3NP,3.nadzemní podlaží
+C9.1NP,1.nadzemní podlaží
+C9.2NP,2.nadzemní podlaží
+CD.1NP,1.nadzemní podlaží
+CD.2NP,2.nadzemní podlaží
+DA.1NP,1.nadzemní podlaží
+DE.1NP,1.nadzemní podlaží
+DF.1NP,1.nadzemní podlaží
+DG.1NP,1.nadzemní podlaží
+DH.1NP,1.nadzemní podlaží
+EF.1NP,1.nadzemní podlaží
+EG.1NP,1.nadzemní podlaží
+EH.1NP,1.nadzemní podlaží
+F1.1MP,1.mezipodlaží
+F1.1NP,1.nadzemní podlaží
+F1.1PP,1.podzemní podlaží
+F1.2NP,2.nadzemní podlaží
+F1.2PP,2.podzemní podlaží
+F1.3NP,3.nadzemní podlaží
+F2.1MP,1.mezipodlaží
+F2.1NP,1.nadzemní podlaží
+F2.1PP,1.podzemní podlaží
+F2.2NP,2.nadzemní podlaží
+F2.3NP,3.nadzemní podlaží
+FA.1NP,1.nadzemní podlaží
+FC.1MP,1.mezipodlaží
+FC.1NP,1.nadzemní podlaží
+FC.2NP,2.nadzemní podlaží
+FC.3NP,3.nadzemní podlaží
+G1.1NP,1.nadzemní podlaží
+G2.1NP,1.nadzemní podlaží
+G2.1PP,1.podzemní podlaží
+G2.2NP,2.nadzemní podlaží
+G3.1NP,1.nadzemní podlaží
+G4.1NP,1.nadzemní podlaží
+G4.1PP,1.podzemní podlaží
+G4.2NP,2.nadzemní podlaží
+G4.3NP,3.nadzemní podlaží
+G4.4NP,4.nadzemní podlaží
+G5.1NP,1.nadzemní podlaží
+G5.1PP,1.podzemní podlaží
+G5.2NP,2.nadzemní podlaží
+G5.2PP,2.podzemní podlaží
+G5.3NP,3.nadzemní podlaží
+G5.4NP,4.nadzemní podlaží
+GA.1NP,1.nadzemní podlaží
+GB.1NP,1.nadzemní podlaží
+GB.1PP,1.podzemní podlaží
+CH.1NP,1.nadzemní podlaží
+J1.1NP,1.nadzemní podlaží
+J1.1PP,1.podzemní podlaží
+J1.2NP,2.nadzemní podlaží
+J2.1NP,1.nadzemní podlaží
+J3.1NP,1.nadzemní podlaží
+J4.1NP,1.nadzemní podlaží
+J5.1NP,1.nadzemní podlaží
+J5.2NP,2.nadzemní podlaží
+J6.1NP,1.nadzemní podlaží
+J6.2NP,2.nadzemní podlaží
+J7.1NP,1.nadzemní podlaží
+J8.1NP,1.nadzemní podlaží
+JA.1NP,1. nadzemní podlaží
+JB.1NP,1.nadzemní podlaží
+19.1NP,1.nadzemní podlaží
+M2.1NP,1.nadzemní podlaží
+M2.1PP,1.suterén
+M2.2NP,2.nadzemní podlaží
+M2.3NP,3.nadzemní podlaží

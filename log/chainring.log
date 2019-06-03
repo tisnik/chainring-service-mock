@@ -1,0 +1,235 @@
+2019-05-30 11:17:09.222 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 11:17:09.244 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 11:17:09.313 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 11:17:14.947 | INFO  | qtp1057436135-17 | chainring-service.server | request URI:    /api/v1/liveness
+2019-05-30 11:17:18.253 | INFO  | qtp1057436135-16 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 11:17:30.862 | INFO  | qtp1057436135-14 | chainring-service.server | request URI:    /api/v1/areals
+2019-05-30 11:17:31.445 | INFO  | qtp1057436135-16 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 11:17:32.045 | INFO  | qtp1057436135-14 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 11:17:32.500 | INFO  | qtp1057436135-16 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 13:03:40.570 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 13:03:40.580 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 13:03:40.609 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 13:04:02.664 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 13:04:09.397 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/areals
+2019-05-30 13:04:10.030 | INFO  | qtp1293940401-18 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 13:04:11.037 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 13:04:11.461 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 13:04:12.149 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 13:04:12.733 | INFO  | qtp1293940401-15 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 14:27:31.519 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 14:27:31.526 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 14:27:31.545 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 14:28:09.445 | INFO  | qtp1603729058-16 | chainring-service.server | request URI:    /api/v1
+2019-05-30 14:28:12.667 | INFO  | qtp1603729058-17 | chainring-service.server | request URI:    /api/v1/areal
+2019-05-30 14:28:14.971 | INFO  | qtp1603729058-17 | chainring-service.server | request URI:    /api/v1/areals
+2019-05-30 14:28:14.972 | ERROR | qtp1603729058-17 | chainring-service.rest-api | list-of-areals
+java.lang.NullPointerException
+	at clojure.core$apply.invoke(core.clj:630)
+	at chainring_service.sap_interface$call_sap_interface.doInvoke(sap_interface.clj:34)
+	at clojure.lang.RestFn.invoke(RestFn.java:442)
+	at chainring_service.rest_api_impl$areals.invoke(rest_api_impl.clj:64)
+	at chainring_service.rest_api$list_of_areals_handler.invoke(rest_api.clj:136)
+	at chainring_service.server$api_call_handler.invoke(server.clj:134)
+	at chainring_service.server$handler.invoke(server.clj:175)
+	at clj_middleware.middleware$inject_configuration$fn__1599.invoke(middleware.clj:22)
+	at ring.middleware.session$wrap_session$fn__1084.invoke(session.clj:98)
+	at ring.middleware.cookies$wrap_cookies$fn__955.invoke(cookies.clj:158)
+	at ring.middleware.params$wrap_params$fn__325.invoke(params.clj:64)
+	at ring.adapter.jetty$proxy_handler$fn__108.invoke(jetty.clj:20)
+	at ring.adapter.jetty.proxy$org.eclipse.jetty.server.handler.AbstractHandler$ff19274a.handle(Unknown Source)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:369)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-30 14:28:16.907 | INFO  | qtp1603729058-18 | chainring-service.server | request URI:    /api/v1/areal
+2019-05-30 14:28:19.546 | INFO  | qtp1603729058-16 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 14:28:19.547 | ERROR | qtp1603729058-16 | chainring-service.rest-api | list-of-buildings
+clojure.lang.ArityException: Wrong number of args (2) passed to: mocked-sap-interface/read-buildings
+	at clojure.lang.AFn.throwArity(AFn.java:429)
+	at clojure.lang.AFn.invoke(AFn.java:36)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.core$apply.invoke(core.clj:630)
+	at chainring_service.sap_interface$call_sap_interface.doInvoke(sap_interface.clj:34)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at chainring_service.rest_api_impl$buildings.invoke(rest_api_impl.clj:79)
+	at chainring_service.rest_api$list_of_buildings_handler.invoke(rest_api.clj:151)
+	at chainring_service.server$api_call_handler.invoke(server.clj:135)
+	at chainring_service.server$handler.invoke(server.clj:175)
+	at clj_middleware.middleware$inject_configuration$fn__1599.invoke(middleware.clj:22)
+	at ring.middleware.session$wrap_session$fn__1084.invoke(session.clj:98)
+	at ring.middleware.cookies$wrap_cookies$fn__955.invoke(cookies.clj:158)
+	at ring.middleware.params$wrap_params$fn__325.invoke(params.clj:64)
+	at ring.adapter.jetty$proxy_handler$fn__108.invoke(jetty.clj:20)
+	at ring.adapter.jetty.proxy$org.eclipse.jetty.server.handler.AbstractHandler$ff19274a.handle(Unknown Source)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:369)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-30 14:37:42.269 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 14:37:42.277 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 14:37:42.300 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 14:37:53.625 | INFO  | qtp1603729058-15 | chainring-service.server | request URI:    /api/v1
+2019-05-30 14:37:58.112 | INFO  | qtp1603729058-16 | chainring-service.server | request URI:    /api/v1/areals
+2019-05-30 14:37:58.113 | ERROR | qtp1603729058-16 | chainring-service.rest-api | list-of-areals
+java.lang.NullPointerException
+	at clojure.core$apply.invoke(core.clj:630)
+	at chainring_service.sap_interface$call_sap_interface.doInvoke(sap_interface.clj:34)
+	at clojure.lang.RestFn.invoke(RestFn.java:442)
+	at chainring_service.rest_api_impl$areals.invoke(rest_api_impl.clj:64)
+	at chainring_service.rest_api$list_of_areals_handler.invoke(rest_api.clj:134)
+	at chainring_service.server$api_call_handler.invoke(server.clj:134)
+	at chainring_service.server$handler.invoke(server.clj:175)
+	at clj_middleware.middleware$inject_configuration$fn__1599.invoke(middleware.clj:22)
+	at ring.middleware.session$wrap_session$fn__1084.invoke(session.clj:98)
+	at ring.middleware.cookies$wrap_cookies$fn__955.invoke(cookies.clj:158)
+	at ring.middleware.params$wrap_params$fn__325.invoke(params.clj:64)
+	at ring.adapter.jetty$proxy_handler$fn__108.invoke(jetty.clj:20)
+	at ring.adapter.jetty.proxy$org.eclipse.jetty.server.handler.AbstractHandler$ff19274a.handle(Unknown Source)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:369)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-30 14:38:03.664 | INFO  | qtp1603729058-17 | chainring-service.server | request URI:    /api/v1/areal
+2019-05-30 14:38:35.025 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 14:38:35.032 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 14:38:35.054 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 14:38:36.780 | INFO  | qtp117162427-12 | chainring-service.server | request URI:    /api/v1/areal
+2019-05-30 14:38:41.304 | INFO  | qtp117162427-16 | chainring-service.server | request URI:    /api/v1/areals
+2019-05-30 14:38:44.280 | INFO  | qtp117162427-16 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 14:38:44.281 | ERROR | qtp117162427-16 | chainring-service.rest-api | list-of-buildings
+clojure.lang.ArityException: Wrong number of args (2) passed to: mocked-sap-interface/read-buildings
+	at clojure.lang.AFn.throwArity(AFn.java:429)
+	at clojure.lang.AFn.invoke(AFn.java:36)
+	at clojure.lang.Var.invoke(Var.java:383)
+	at clojure.lang.AFn.applyToHelper(AFn.java:156)
+	at clojure.lang.Var.applyTo(Var.java:700)
+	at clojure.core$apply.invoke(core.clj:630)
+	at chainring_service.sap_interface$call_sap_interface.doInvoke(sap_interface.clj:34)
+	at clojure.lang.RestFn.invoke(RestFn.java:464)
+	at chainring_service.rest_api_impl$buildings.invoke(rest_api_impl.clj:79)
+	at chainring_service.rest_api$list_of_buildings_handler.invoke(rest_api.clj:149)
+	at chainring_service.server$api_call_handler.invoke(server.clj:134)
+	at chainring_service.server$handler.invoke(server.clj:173)
+	at clj_middleware.middleware$inject_configuration$fn__1599.invoke(middleware.clj:22)
+	at ring.middleware.session$wrap_session$fn__1084.invoke(session.clj:98)
+	at ring.middleware.cookies$wrap_cookies$fn__955.invoke(cookies.clj:158)
+	at ring.middleware.params$wrap_params$fn__325.invoke(params.clj:64)
+	at ring.adapter.jetty$proxy_handler$fn__108.invoke(jetty.clj:20)
+	at ring.adapter.jetty.proxy$org.eclipse.jetty.server.handler.AbstractHandler$ff19274a.handle(Unknown Source)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:369)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:486)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:933)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:995)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:644)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:668)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:748)
+2019-05-30 14:41:28.853 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 14:41:28.859 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 14:41:28.879 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 14:49:07.633 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 14:49:12.837 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/building
+2019-05-30 14:49:24.589 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/building
+2019-05-30 14:49:33.565 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/building
+2019-05-30 14:49:38.916 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 14:49:46.588 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 14:49:48.524 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 14:49:54.476 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 14:50:07.084 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 14:50:22.268 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 14:50:52.340 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 14:50:56.692 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:00:26.081 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 15:00:26.091 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 15:00:26.114 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 15:03:43.952 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 15:03:46.889 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:03:47.816 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:03:48.929 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:03:50.379 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:03:52.096 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:03:53.352 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:03:54.528 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:03:55.169 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:04:24.887 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 15:04:25.512 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:04:26.240 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:04:39.468 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/drawing-data
+2019-05-30 15:04:39.496 | INFO  | qtp1870234754-16 | chainring-service.drawings-storage | Storing into drawings/A6_1NP_20190530.json
+2019-05-30 15:04:39.504 | INFO  | qtp1870234754-16 | chainring-service.drawings-cache | deleting drawing A6_1NP_20190530 from cache
+2019-05-30 15:04:39.508 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 15:25:25.169 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 15:25:25.175 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 15:25:25.194 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 15:25:39.917 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 15:25:41.314 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 15:25:43.825 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 15:26:29.908 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/drawing-data
+2019-05-30 15:26:29.920 | INFO  | qtp1870234754-17 | chainring-service.drawings-storage | Storing into drawings/A4_1PP_20190530.json
+2019-05-30 15:26:29.926 | INFO  | qtp1870234754-17 | chainring-service.drawings-cache | deleting drawing A4_1PP_20190530 from cache
+2019-05-30 15:26:29.931 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 17:02:40.418 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 17:02:40.425 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 17:02:40.444 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 17:02:46.795 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1
+2019-05-30 17:02:52.237 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/rooms
+2019-05-30 17:03:01.028 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1
+2019-05-30 17:03:15.908 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 17:03:17.276 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1
+2019-05-30 17:03:23.571 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1
+2019-05-30 17:03:30.327 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/config
+2019-05-30 17:03:38.500 | INFO  | qtp1870234754-17 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:03:58.084 | INFO  | qtp1870234754-18 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:04:41.683 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:04:46.139 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:01.474 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 17:05:01.481 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 17:05:01.501 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 17:05:02.595 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:11.059 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:13.195 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:13.995 | INFO  | qtp1870234754-15 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:14.619 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 17:05:15.187 | INFO  | qtp1870234754-16 | chainring-service.server | request URI:    /api/v1/room
+2019-05-30 21:05:03.113 | INFO  | main | chainring-service.core | Starting the server at the port:  3000
+2019-05-30 21:05:03.134 | INFO  | main | org.eclipse.jetty.server.Server | jetty-7.6.13.v20130916
+2019-05-30 21:05:03.211 | INFO  | main | org.eclipse.jetty.server.AbstractConnector | Started SelectChannelConnector@0.0.0.0:3000
+2019-05-30 21:05:21.032 | INFO  | qtp153853416-16 | chainring-service.server | request URI:    /api/v1/info
+2019-05-30 21:05:29.196 | INFO  | qtp153853416-17 | chainring-service.server | request URI:    /api/v1/buildings
+2019-05-30 21:05:30.656 | INFO  | qtp153853416-16 | chainring-service.server | request URI:    /api/v1/floors
+2019-05-30 21:05:31.367 | INFO  | qtp153853416-13 | chainring-service.server | request URI:    /api/v1/rooms
