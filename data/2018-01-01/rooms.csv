@@ -1,70 +1,33 @@
-AOID,Label
-M2.1NP.100,100-chodba
-M2.1NP.101,101-schody
-M2.1NP.102,102-kuchyň
-M2.1NP.103,103-kuchyň
-M2.1NP.104,104-kuchyň
-M2.1NP.105,105-jídelna
-M2.1NP.106,106-chodba
-M2.1NP.106A,106A-chodba
-M2.1NP.107,107-kancelář
-M2.1NP.108,108-chodba
-M2.1NP.109,109-sociální zázemí
-M2.1NP.110,110-WC
-M2.1NP.111,111-úklid
-M2.1NP.112,112-sklad
-M2.1NP.113,113-sklad
-M2.1NP.114,114-schody
-M2.1NP.115,115-chodba
-M2.1NP.116,116-sociální zázemí
-M2.1NP.117,117-kancelář
-M2.1NP.118,118-kancelář
-M2.1PP.001,001-chodba
-M2.1PP.002,002-chodba
-M2.1PP.003,003-kotelna M2
-M2.1PP.004,004-sklad
-M2.1PP.005,005-chodba
-M2.1PP.005A,005A-chodba
-M2.1PP.005B,005B-sklad
-M2.1PP.006,006-sklad
-M2.1PP.007,007-sklad
-M2.1PP.008,008-sklad
-M2.1PP.009,009-sklad
-M2.1PP.010,010-sklad
-M2.1PP.011,011-sklad
-M2.1PP.013,013-chodba
-M2.1PP.014,014-schody
-M2.1PP.015,015-sklad
-M2.1PP.016,016-sklad
-M2.1PP.017,017-sklad
-M2.1PP.018,018-sklad
-M2.1PP.019,019-schody
-M2.1PP.020,020-sklad
-M2.2NP.200,200-schody
-M2.2NP.201,201-chodba
-M2.2NP.202,202-sociální zázemí
-M2.2NP.202A,202A-chodba
-M2.2NP.202B,202B-sklad
-M2.2NP.203,203-kancelář
-M2.2NP.204,204-kancelář
-M2.2NP.205,205-kancelář
-M2.2NP.206,206-kancelář
-M2.2NP.207,207-kancelář
-M2.2NP.208,208-WC
-M2.2NP.209,209-WC
-M2.2NP.210,210-kancelář
-M2.2NP.211,211-kancelář
-M2.3NP.300,300-schody
-M2.3NP.300A,300A-úklid
-M2.3NP.301,301-chodba
-M2.3NP.302,302-kuchyň
-M2.3NP.302A,302A-chodba
-M2.3NP.303,303-kancelář
-M2.3NP.304,304-kancelář
-M2.3NP.305,305-kancelář
-M2.3NP.306,306-kancelář
-M2.3NP.307,307-kancelář
-M2.3NP.308,308-WC
-M2.3NP.309,309-WC
-M2.3NP.310,310-kancelář
-M2.3NP.311,311-kancelář
+AOID,Short,Label
+080.01.0010,1.01,sklad
+080.01.0020,1.02,WC a sprcha
+080.01.0030,1.03,chodba
+080.01.0050,1.05,schodiště
+080.01.0060,1.06,pokladna
+080.01.0070,1.07,zázemí pro veřejnost
+080.01.0080,1.08,rozvodna
+080.01.0090,1.09,kancelář
+080.01.0220,1.22,kancelář
+080.01.022C,1.22C,šatna
+080.01.0280,1.28,archiv
+080.01.0460,1.46,jídelna
+080.02.0010,2.01,WC a sprcha
+080.02.001A,2.01A,sklad
+080.02.0020,2.02,kuchyňka
+080.02.0030,2.03,schodiště
+080.02.0040,2.04,galerie
+080.02.0050,2.05,knihovna
+080.02.0060,2.06,kancelář
+080.02.0070,2.07,archiv
+080.02.0100,2.10,zasedací místnost
+080.03.0010,3.01,kancelář
+080.03.0020,3.02,WC a sprcha
+080.03.0040,3.04,chodba
+080.03.0050,3.05,schodiště
+080.03.0070,3.07,kancelář
+080.03.022A,3.22A,půda
+080.03.0310,3.31,rozvodna NN
+080.03.0340,3.34,kancelář
+080.P1.0010,P1.01,ostatní
+080.P1.0050,P1.05,schodiště
+080.P1.0060,P1.06,archiv

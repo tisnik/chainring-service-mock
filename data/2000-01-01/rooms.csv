@@ -1,21 +1,33 @@
-AOID,Label
-M2.1NP.100,100-chodba
-M2.1NP.101,101-schody
-M2.1NP.102,102-kuchyň
-M2.1NP.103,103-kuchyň
-M2.1NP.104,104-kuchyň
-M2.1NP.105,105-jídelna
-M2.1NP.106,106-chodba
-M2.1NP.106A,106A-chodba
-M2.1NP.107,107-kancelář
-M2.1NP.108,108-chodba
-M2.1NP.109,109-sociální zázemí
-M2.1NP.110,110-WC
-M2.1NP.111,111-úklid
-M2.1NP.112,112-sklad
-M2.1NP.113,113-sklad
-M2.1NP.114,114-schody
-M2.1NP.115,115-chodba
-M2.1NP.116,116-sociální zázemí
-M2.1NP.117,117-kancelář
-M2.1NP.118,118-kancelář
+AOID,Short,Label
+080.01.0010,1.01,sklad
+080.01.0020,1.02,WC a sprcha
+080.01.0030,1.03,chodba
+080.01.0050,1.05,schodiště
+080.01.0060,1.06,pokladna
+080.01.0070,1.07,zázemí pro veřejnost
+080.01.0080,1.08,rozvodna
+080.01.0090,1.09,kancelář
+080.01.0220,1.22,kancelář
+080.01.022C,1.22C,šatna
+080.01.0280,1.28,archiv
+080.01.0460,1.46,jídelna
+080.02.0010,2.01,WC a sprcha
+080.02.001A,2.01A,sklad
+080.02.0020,2.02,kuchyňka
+080.02.0030,2.03,schodiště
+080.02.0040,2.04,galerie
+080.02.0050,2.05,knihovna
+080.02.0060,2.06,kancelář
+080.02.0070,2.07,archiv
+080.02.0100,2.10,zasedací místnost
+080.03.0010,3.01,kancelář
+080.03.0020,3.02,WC a sprcha
+080.03.0040,3.04,chodba
+080.03.0050,3.05,schodiště
+080.03.0070,3.07,kancelář
+080.03.022A,3.22A,půda
+080.03.0310,3.31,rozvodna NN
+080.03.0340,3.34,kancelář
+080.P1.0010,P1.01,ostatní
+080.P1.0050,P1.05,schodiště
+080.P1.0060,P1.06,archiv
