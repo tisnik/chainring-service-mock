@@ -23,8 +23,6 @@
 
 (require '[chainring-service.rest-api      :as rest-api])
 (require '[chainring-service.config        :as config])
-(require '[clj-http-utils.http-utils       :as http-utils])
-(require '[chainring-service.sap-interface :as sap-interface])
 
 (use     '[clj-utils.utils])
 
