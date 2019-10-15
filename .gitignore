@@ -11,3 +11,4 @@ pom.xml.asc
 .hg/
 chainring.db
 *.java
+log/chainring.log
