@@ -15,7 +15,6 @@
 
     Author: Pavel Tisnovsky")
 
-(require '[ring.util.response      :as http-response])
 (require '[clojure.tools.logging   :as log])
 
 (require '[clj-fileutils.fileutils :as fileutils])
