@@ -18,7 +18,6 @@
 
 (require '[chainring-service.rest-api-utils        :as rest-api-utils])
 (require '[chainring-service.sap-interface         :as sap-interface])
-(require '[chainring-service.mocked-sap-interface  :as mocked-sap-interface])
 
 
 (defn all-aoids
