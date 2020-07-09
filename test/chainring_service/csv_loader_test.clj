@@ -27,3 +27,20 @@
 ; Tests for functions existence
 ;
 
+(deftest test-csv-data->maps-existence
+  "Check that the chainring-service.csv-loader/csv-data->maps definition exists."
+  (testing "if the chainring-service.csv-loader/csv-data->maps definition exists."
+    (is (callable? 'chainring-service.csv-loader/csv-data->maps))))
+
+
+(deftest test-load-csv-existence
+  "Check that the chainring-service.csv-loader/load-csv definition exists."
+  (testing "if the chainring-service.csv-loader/load-csv definition exists."
+    (is (callable? 'chainring-service.csv-loader/load-csv))))
+
+
+(deftest test-load-csv-for-all-dates-existence
+  "Check that the chainring-service.csv-loader/load-csv-for-all-dates definition exists."
+  (testing "if the chainring-service.csv-loader/load-csv-for-all-dates definition exists."
+    (is (callable? 'chainring-service.csv-loader/load-csv-for-all-dates))))
+
