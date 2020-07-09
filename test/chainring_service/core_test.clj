@@ -19,34 +19,34 @@
 ;
 
 (defn callable?
-    "Test if given function-name is bound to the real function."
-    [function-name]
-    (clojure.test/function? function-name))
+  "Test if given function-name is bound to the real function."
+  [function-name]
+  (clojure.test/function? function-name))
 
 ;
 ; Tests for functions existence
 ;
 
 (deftest test-start-server-existence
-    "Check that the chainring-service.core/start-server definition exists."
-    (testing "if the chainring-service.core/start-server definition exists."
-        (is (callable? 'chainring-service.core/start-server))))
+  "Check that the chainring-service.core/start-server definition exists."
+  (testing "if the chainring-service.core/start-server definition exists."
+           (is (callable? 'chainring-service.core/start-server))))
 
 
 (deftest test-show-help-existence
-    "Check that the chainring-service.core/show-help definition exists."
-    (testing "if the chainring-service.core/show-help definition exists."
-        (is (callable? 'chainring-service.core/show-help))))
+  "Check that the chainring-service.core/show-help definition exists."
+  (testing "if the chainring-service.core/show-help definition exists."
+           (is (callable? 'chainring-service.core/show-help))))
 
 
 (deftest test-show-configuration-existence
-    "Check that the chainring-service.core/show-configuration definition exists."
-    (testing "if the chainring-service.core/show-configuration definition exists."
-        (is (callable? 'chainring-service.core/show-configuration))))
+  "Check that the chainring-service.core/show-configuration definition exists."
+  (testing "if the chainring-service.core/show-configuration definition exists."
+           (is (callable? 'chainring-service.core/show-configuration))))
 
 
 (deftest test--main-existence
-    "Check that the chainring-service.core/-main definition exists."
-    (testing "if the chainring-service.core/-main definition exists."
-        (is (callable? 'chainring-service.core/-main))))
+  "Check that the chainring-service.core/-main definition exists."
+  (testing "if the chainring-service.core/-main definition exists."
+           (is (callable? 'chainring-service.core/-main))))
 
