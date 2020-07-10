@@ -19,9 +19,9 @@
 ;
 
 (defn callable?
-    "Test if given function-name is bound to the real function."
-    [function-name]
-    (clojure.test/function? function-name))
+  "Test if given function-name is bound to the real function."
+  [function-name]
+  (clojure.test/function? function-name))
 
 ;
 ; Tests for functions existence
@@ -29,54 +29,59 @@
 
 (deftest test-inc-hit-counter-existence
   "Check that the chainring-service.drawings-cache/inc-hit-counter definition exists."
-  (testing "if the chainring-service.drawings-cache/inc-hit-counter definition exists."
+  (testing
+    "if the chainring-service.drawings-cache/inc-hit-counter definition exists."
     (is (callable? 'chainring-service.drawings-cache/inc-hit-counter))))
 
 
 (deftest test-cleanup-least-used-item-existence
   "Check that the chainring-service.drawings-cache/cleanup-least-used-item definition exists."
-  (testing "if the chainring-service.drawings-cache/cleanup-least-used-item definition exists."
+  (testing
+    "if the chainring-service.drawings-cache/cleanup-least-used-item definition exists."
     (is (callable? 'chainring-service.drawings-cache/cleanup-least-used-item))))
 
 
 (deftest test-write-existence
   "Check that the chainring-service.drawings-cache/write definition exists."
   (testing "if the chainring-service.drawings-cache/write definition exists."
-    (is (callable? 'chainring-service.drawings-cache/write))))
+           (is (callable? 'chainring-service.drawings-cache/write))))
 
 
 (deftest test-delete-existence
   "Check that the chainring-service.drawings-cache/delete definition exists."
   (testing "if the chainring-service.drawings-cache/delete definition exists."
-    (is (callable? 'chainring-service.drawings-cache/delete))))
+           (is (callable? 'chainring-service.drawings-cache/delete))))
 
 
 (deftest test-fetch-existence
   "Check that the chainring-service.drawings-cache/fetch definition exists."
   (testing "if the chainring-service.drawings-cache/fetch definition exists."
-    (is (callable? 'chainring-service.drawings-cache/fetch))))
+           (is (callable? 'chainring-service.drawings-cache/fetch))))
 
 
 (deftest test-store-existence
   "Check that the chainring-service.drawings-cache/store definition exists."
   (testing "if the chainring-service.drawings-cache/store definition exists."
-    (is (callable? 'chainring-service.drawings-cache/store))))
+           (is (callable? 'chainring-service.drawings-cache/store))))
 
 
 (deftest test-cache-size-existence
   "Check that the chainring-service.drawings-cache/cache-size definition exists."
-  (testing "if the chainring-service.drawings-cache/cache-size definition exists."
+  (testing
+    "if the chainring-service.drawings-cache/cache-size definition exists."
     (is (callable? 'chainring-service.drawings-cache/cache-size))))
 
 
 (deftest test-get-access-times-existence
   "Check that the chainring-service.drawings-cache/get-access-times definition exists."
-  (testing "if the chainring-service.drawings-cache/get-access-times definition exists."
+  (testing
+    "if the chainring-service.drawings-cache/get-access-times definition exists."
     (is (callable? 'chainring-service.drawings-cache/get-access-times))))
 
 
 (deftest test-get-counters-existence
   "Check that the chainring-service.drawings-cache/get-counters definition exists."
-  (testing "if the chainring-service.drawings-cache/get-counters definition exists."
+  (testing
+    "if the chainring-service.drawings-cache/get-counters definition exists."
     (is (callable? 'chainring-service.drawings-cache/get-counters))))
 
