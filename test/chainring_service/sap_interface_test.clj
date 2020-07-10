@@ -27,3 +27,14 @@
 ; Tests for functions existence
 ;
 
+(deftest test-get-sap-namespace-existence
+  "Check that the chainring-service.sap-interface/get-sap-namespace definition exists."
+  (testing "if the chainring-service.sap-interface/get-sap-namespace definition exists."
+    (is (callable? 'chainring-service.sap-interface/get-sap-namespace))))
+
+
+(deftest test-call-sap-interface-existence
+  "Check that the chainring-service.sap-interface/call-sap-interface definition exists."
+  (testing "if the chainring-service.sap-interface/call-sap-interface definition exists."
+    (is (callable? 'chainring-service.sap-interface/call-sap-interface))))
+
