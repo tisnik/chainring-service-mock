@@ -31,7 +31,7 @@
 (deftest test-full-prefix-existence
   "Check that the chainring-service.config/full-prefix definition exists."
   (testing "if the chainring-service.config/full-prefix definition exists."
-    (is (callable? 'chainring-service.config/full-prefix))))
+           (is (callable? 'chainring-service.config/full-prefix))))
 
 
 (deftest test-update-configuration-existence
